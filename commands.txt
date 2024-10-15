@@ -11,6 +11,9 @@ setx OPENAI_API_KEY "XXXXXXXXXXXXXXXXXXX"
 Initialize:
 python -m graphrag.index --init --root .
 
+Tune prompts:
+python -m graphrag.prompt_tune --root . --config settings.yaml --no-entity-types --output ./prompts/tuned
+
 Input Data:
 python -m graphrag.index --root .
 
