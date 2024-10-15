@@ -85,7 +85,7 @@ entity_extraction:
   ## llm: override the global llm settings for this task
   ## parallelization: override the global parallelization settings for this task
   ## async_mode: override the global async_mode settings for this task
-  prompt: "prompts/entity_extraction.txt"
+  prompt: "prompts/tuned/entity_extraction.txt"
   entity_types: [organization,person,geo,event]
   max_gleanings: 1
 
@@ -93,7 +93,7 @@ summarize_descriptions:
   ## llm: override the global llm settings for this task
   ## parallelization: override the global parallelization settings for this task
   ## async_mode: override the global async_mode settings for this task
-  prompt: "prompts/summarize_descriptions.txt"
+  prompt: "prompts/tuned/summarize_descriptions.txt"
   max_length: 500
 
 claim_extraction:
@@ -109,7 +109,7 @@ community_reports:
   ## llm: override the global llm settings for this task
   ## parallelization: override the global parallelization settings for this task
   ## async_mode: override the global async_mode settings for this task
-  prompt: "prompts/community_report.txt"
+  prompt: "prompts/tuned/community_report.txt"
   max_length: 2000
   max_input_length: 8000
 
