@@ -1,0 +1,19 @@
+Setup:
+pip install graphrag
+
+Linux/Mac
+export GRAPHRAG_API_KEY=XXXXXXXXXXXXXXX
+
+Windows
+setx GRAPHRAG_API_KEY "XXXXXXXXXXXXXXXXXXX"
+setx OPENAI_API_KEY "XXXXXXXXXXXXXXXXXXX"
+
+Initialize:
+python -m graphrag.index --init --root .
+
+Input Data:
+python -m graphrag.index --root .
+
+Query:
+python -m graphrag.query --root . --method global "QUERY"
+python -m graphrag.query --root . --method local "QUERY"
