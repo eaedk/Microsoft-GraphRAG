@@ -1,0 +1,106 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity, first identify all entities needed from the text in order to capture the information and ideas in the text.
+Next, report all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: Suggest several labels or categories for the entity. The categories should not be specific, but should be as general as possible.
+- entity_description: Comprehensive description of the entity's attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: a numeric score indicating strength of the relationship between the source entity and target entity
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return output in The primary language of the provided text is French. as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. If you have to translate into The primary language of the provided text is French., just translate the descriptions, nothing else!
+
+5. When finished, output {completion_delimiter}.
+
+-Examples-
+######################
+
+Example 1:
+
+text:
+15/05/1999a) en cas d'arbitrage par trois arbitres, chaque partie nomme un arbitre et les deux arbitres ainsi nommés
+choisissent le troisième arbitre ; si une partie ne nomme pas un arbitre dans un délai de trente jours à compter de
+la réception d'une demande à cette fin émanant de l'autre partie, ou si les deux arbitres ne s'accordent pas sur le
+choix du troisième arbitre dans un délai de trente jours à compter de leur désignation, la nomination est effectuée,
+sur la demande d'une partie, par le juge compétent dans l'Etat-partie ;
+b) en cas d'arbitrage par un arbitre unique, si les parties ne peuvent s'accorder sur le choix de l'arbitre, celui-ci est
+nommé, sur
+------------------------
+output:
+("entity"{tuple_delimiter}ARBITRAGE{tuple_delimiter}PROCESS{tuple_delimiter}Processus de résolution de conflit où les parties choisissent un ou plusieurs arbitres pour prendre une décision)
+{record_delimiter}
+("entity"{tuple_delimiter}PARTIE{tuple_delimiter}ENTITY{tuple_delimiter}Entités impliquées dans un processus d'arbitrage, pouvant nommer des arbitres et participer à la résolution de conflit)
+{record_delimiter}
+("entity"{tuple_delimiter}ARBITRE{tuple_delimiter}ROLE{tuple_delimiter}Individu choisi par les parties en conflit ou par un juge pour résoudre un arbitrage)
+{record_delimiter}
+("entity"{tuple_delimiter}JUGE COMPÉTENT{tuple_delimiter}ROLE{tuple_delimiter}Juge ayant l'autorité de nommer un arbitre en cas de désaccord entre les parties ou si une partie ne nomme pas d'arbitre)
+{record_delimiter}
+("entity"{tuple_delimiter}ETAT-PARTIE{tuple_delimiter}GEO{tuple_delimiter}Juridiction ou pays dans lequel le juge compétent peut effectuer une nomination d'arbitre)
+{record_delimiter}
+("relationship"{tuple_delimiter}PARTIE{tuple_delimiter}ARBITRE{tuple_delimiter}Les parties sont responsables de la nomination des arbitres dans le processus d'arbitrage{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}ARBITRE{tuple_delimiter}ARBITRAGE{tuple_delimiter}Les arbitres sont essentiels pour mener à bien le processus d'arbitrage{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}JUGE COMPÉTENT{tuple_delimiter}ARBITRE{tuple_delimiter}Le juge compétent peut nommer un arbitre si les parties ne s'accordent pas ou ne respectent pas les délais{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}ETAT-PARTIE{tuple_delimiter}JUGE COMPÉTENT{tuple_delimiter}Le juge compétent opère dans la juridiction de l'Etat-partie{tuple_delimiter}9)
+{completion_delimiter}
+#############################
+
+
+Example 2:
+
+text:
+ de la marchandise a eu lieu ou les juridictions du pays sur le territoire duquel la livraison est
+prévue.
+2°) Lorsqu'une action est pendante devant une juridiction compétente ou lorsqu'un jugement a été prononcé par
+une telle juridiction, il ne peut être intenté aucune nouvelle action pour la même cause entre les mêmes parties à
+                            page 13 / 14 https://www.ohada.com/textes-ohada/actes-uniformes.html
+ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE 
+Adopté le 22/03/2003 à Yaoundé (CAMEROUN)
+ Publié au Journal Officiel n° 13 du 31/07/2003moins que la décision de la première juridiction saisie ne soit pas susceptible d'être ex
+------------------------
+output:
+("entity"{tuple_delimiter}MARCHANDISE{tuple_delimiter}OBJECT{tuple_delimiter}Objet de la transaction ou du transport, sujet à des réglementations spécifiques dans le cadre du commerce international)
+{record_delimiter}
+("entity"{tuple_delimiter}JURIDICTION{tuple_delimiter}ORGANIZATION{tuple_delimiter}Entité légale compétente pour juger des affaires et des litiges, y compris ceux liés aux contrats de transport de marchandises)
+{record_delimiter}
+("entity"{tuple_delimiter}PAYS{tuple_delimiter}GEO{tuple_delimiter}L'entité géographique sur le territoire duquel la livraison de la marchandise est prévue)
+{record_delimiter}
+("entity"{tuple_delimiter}ACTION{tuple_delimiter}EVENT{tuple_delimiter}Procédure légale engagée devant une juridiction compétente concernant un litige ou une affaire spécifique)
+{record_delimiter}
+("entity"{tuple_delimiter}JUGEMENT{tuple_delimiter}EVENT{tuple_delimiter}Décision rendue par une juridiction compétente à l'issue d'une action légale)
+{record_delimiter}
+("entity"{tuple_delimiter}ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE{tuple_delimiter}DOCUMENT{tuple_delimiter}Document légal adopté à Yaoundé, Cameroun, le 22/03/2003, régulant les contrats de transport de marchandises par route)
+{record_delimiter}
+("entity"{tuple_delimiter}YAOUNDÉ{tuple_delimiter}GEO{tuple_delimiter}Capitale du Cameroun, lieu d'adoption de l'Acte Uniforme relatif aux contrats de transport de marchandises par route)
+{record_delimiter}
+("relationship"{tuple_delimiter}MARCHANDISE{tuple_delimiter}PAYS{tuple_delimiter}La livraison de la marchandise est prévue sur le territoire d'un pays spécifique{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}ACTION{tuple_delimiter}JURIDICTION{tuple_delimiter}Une action est pendante devant une juridiction compétente concernant un litige{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}JUGEMENT{tuple_delimiter}JURIDICTION{tuple_delimiter}Un jugement est prononcé par une juridiction compétente à l'issue d'une action légale{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE{tuple_delimiter}YAOUNDÉ{tuple_delimiter}L'Acte a été adopté à Yaoundé, Cameroun{tuple_delimiter}9)
+{completion_delimiter}
+#############################
+
+
+
+-Real Data-
+######################
+text: {input_text}
+######################
+output:
