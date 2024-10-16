@@ -20,3 +20,9 @@ python -m graphrag.index --root .
 Query:
 python -m graphrag.query --root . --method global "QUERY"
 python -m graphrag.query --root . --method local "QUERY"
+
+Query samples:
+python -m graphrag.query --root . --method global "What are the docs about?"
+python -m graphrag.query --root . --method global "De quoi parlent les documents ?"
+
+python -m graphrag.query --root . --method local "QUERY"
