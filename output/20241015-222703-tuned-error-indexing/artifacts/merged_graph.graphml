@@ -1,0 +1,1970 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ACTE UNIFORME RELATIF AU DROIT DE L'ARBITRAGE">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Document l&#233;gal adopt&#233; le 11/03/1999 &#224; Ouagadougou, Burkina Faso, r&#233;gulant le droit de l'arbitrage dans les Etats-parties de l'OHADA
+Document l&#233;gal adopt&#233; &#224; Ouagadougou, Burkina Faso, le 11/03/1999, r&#233;gulant le droit de l'arbitrage
+Document l&#233;gal adopt&#233; &#224; Ouagadougou, Burkina Faso, le 11/03/1999, r&#233;gulant les proc&#233;dures d'arbitrage
+Document l&#233;gal adopt&#233; &#224; Ouagadougou, Burkina Faso, le 11/03/1999, r&#233;gulant le droit de l'arbitrage dans les Etats-parties de l'OHADA</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e,587cdc3e0e096e6a9eca0f564bb6df05,6377b0463feb8217c36e3890d4c4c075,9dd9fe1f162e62993366ced832ed67b9</data>
+    </node>
+    <node id="OHADA">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Organisation pour l'Harmonisation en Afrique du Droit des Affaires, visant &#224; harmoniser le droit des affaires dans les Etats membres
+Organisation pour l'harmonisation en Afrique du droit des affaires, sous l'&#233;gide de laquelle le droit de l'arbitrage peut &#234;tre r&#233;gul&#233;
+Organisation pour l'Harmonisation en Afrique du Droit des Affaires, entit&#233; r&#233;gulant le droit des affaires dans les Etats-parties
+Organisation pour l'Harmonisation en Afrique du Droit des Affaires, entit&#233; visant &#224; harmoniser le droit des affaires en Afrique
+Organisation pour l'harmonisation en Afrique du droit des affaires, responsable de la publication de l'Acte uniforme</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361,6377b0463feb8217c36e3890d4c4c075,76cdac3f16f7950e0556c5e24b55dba1,9dd9fe1f162e62993366ced832ed67b9,df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="ETAT-PARTIE">
+      <data key="d0">GEO</data>
+      <data key="d1">Etat membre de l'OHADA o&#249; le droit de l'arbitrage tel que d&#233;fini par l'acte uniforme est applicable
+Juridiction ou pays dans lequel le juge comp&#233;tent peut intervenir et o&#249; se d&#233;roule le processus d'arbitrage
+Juridiction ou pays dans lequel le juge comp&#233;tent peut intervenir pour soutenir le tribunal arbitral
+Juridiction ou pays dans lequel les proc&#233;dures li&#233;es &#224; la sentence arbitrale, telles que l'annulation ou l'exequatur, sont effectu&#233;es
+Juridiction ou pays membre o&#249; un jugement devient ex&#233;cutoire et est reconnu par les autres membres</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361,3250669a7ff7e0de8bf2cfcbfcc89c2e,587cdc3e0e096e6a9eca0f564bb6df05,9dd9fe1f162e62993366ced832ed67b9,df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="TRIBUNAL ARBITRAL">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Entit&#233; charg&#233;e de r&#233;soudre les litiges en arbitrage, dont le si&#232;ge se trouve dans un Etat-partie de l'OHADA
+Entit&#233; compos&#233;e d'un ou plusieurs arbitres d&#233;sign&#233;s pour r&#233;soudre un litige, pouvant statuer sur sa propre comp&#233;tence et sur l'existence ou la validit&#233; de la convention d'arbitrage
+Entit&#233; charg&#233;e de mener l'arbitrage et de rendre une d&#233;cision sur le litige entre les parties
+Organe compos&#233; d'arbitres d&#233;sign&#233;s pour r&#233;soudre un litige dans le cadre d'une proc&#233;dure d'arbitrage</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e,587cdc3e0e096e6a9eca0f564bb6df05,9dd9fe1f162e62993366ced832ed67b9,df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="PERSONNE PHYSIQUE OU MORALE">
+      <data key="d0">ENTITY</data>
+      <data key="d1">Toute entit&#233;, y compris les Etats et collectivit&#233;s publiques, pouvant recourir &#224; l'arbitrage selon l'acte uniforme</data>
+      <data key="d2">9dd9fe1f162e62993366ced832ed67b9</data>
+    </node>
+    <node id="CONVENTION D'ARBITRAGE">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Accord par lequel les parties d&#233;cident de soumettre &#224; l'arbitrage tout litige qui a surgi ou qui pourrait surgir entre elles
+Accord par lequel les parties d&#233;cident de soumettre &#224; l'arbitrage tout litige qui pourrait survenir entre elles, d&#233;finissant les modalit&#233;s de la proc&#233;dure arbitrale
+</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e,9dd9fe1f162e62993366ced832ed67b9,df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="CONTRAT PRINCIPAL">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Contrat &#224; l'origine du litige soumis &#224; l'arbitrage, ind&#233;pendant de la convention d'arbitrage</data>
+      <data key="d2">9dd9fe1f162e62993366ced832ed67b9</data>
+    </node>
+    <node id="ARBITRE">
+      <data key="d0">ROLE</data>
+      <data key="d1">Personne physique nomm&#233;e par les parties ou par le juge comp&#233;tent pour r&#233;soudre un litige en arbitrage, devant &#234;tre ind&#233;pendante et impartiale
+Individu choisi pour r&#233;soudre un litige dans le cadre d'un arbitrage, pouvant &#234;tre r&#233;cus&#233; sous certaines conditions et ayant la possibilit&#233; de d&#233;cliner sa mission si une cause de r&#233;cusation est pr&#233;sente</data>
+      <data key="d2">9dd9fe1f162e62993366ced832ed67b9,df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="JUGE COMP&#201;TENT">
+      <data key="d0">ROLE</data>
+      <data key="d1">Juge ayant l'autorit&#233; de nommer un arbitre en cas de d&#233;saccord entre les parties ou d'insuffisance de la convention d'arbitrage
+Juge ayant l'autorit&#233; de statuer sur la r&#233;cusation d'un arbitre et de proroger le d&#233;lai de la mission des arbitres dans l'Etat-partie
+Juge ayant l'autorit&#233; de soutenir le tribunal arbitral dans l'administration de la preuve si n&#233;cessaire
+Juge ayant l'autorit&#233; de statuer sur des questions li&#233;es &#224; l'ex&#233;cution, l'annulation, et l'exequatur de sentences arbitrales dans l'Etat-partie
+Juge ayant l'autorit&#233; de traiter les recours contre les d&#233;cisions d'exequatur et les sentences arbitrales dans un Etat-partie</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e,587cdc3e0e096e6a9eca0f564bb6df05,6377b0463feb8217c36e3890d4c4c075,9dd9fe1f162e62993366ced832ed67b9,df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="TRAIT&#201;">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Document de r&#233;f&#233;rence pour l'harmonisation du droit des affaires en Afrique, mentionn&#233; dans le pr&#233;ambule de l'acte uniforme</data>
+      <data key="d2">9dd9fe1f162e62993366ced832ed67b9</data>
+    </node>
+    <node id="SEC&#201;TAIRE PERMANENT">
+      <data key="d0">ROLE</data>
+      <data key="d1">R&#244;le au sein de l'OHADA ayant contribu&#233; au rapport sur lequel se base l'acte uniforme</data>
+      <data key="d2">9dd9fe1f162e62993366ced832ed67b9</data>
+    </node>
+    <node id="COUR COMMUNE DE JUSTICE ET D'ARBITRAGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Organe judiciaire de l'OHADA ayant &#233;mis un avis sur l'acte uniforme
+Institution judiciaire supranationale comp&#233;tente pour les pourvois en cassation contre les d&#233;cisions des juges comp&#233;tents dans les Etats-parties en mati&#232;re d'arbitrage
+Organe judiciaire de l'OHADA comp&#233;tent pour les pourvois en cassation contre les d&#233;cisions refusant l'exequatur
+Cour fournissant un avis en date du 17 d&#233;cembre 2003 concernant l'acte uniforme</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e,6377b0463feb8217c36e3890d4c4c075,76cdac3f16f7950e0556c5e24b55dba1,9dd9fe1f162e62993366ced832ed67b9</data>
+    </node>
+    <node id="RAPPORT">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Document contenant des observations et analyses servant de base &#224; l'adoption de l'acte uniforme</data>
+      <data key="d2">9dd9fe1f162e62993366ced832ed67b9</data>
+    </node>
+    <node id="AVIS">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Opinion ou conseil formel donn&#233; par la Cour Commune de Justice et d'Arbitrage concernant l'acte uniforme
+
+</data>
+      <data key="d2">76cdac3f16f7950e0556c5e24b55dba1,9dd9fe1f162e62993366ced832ed67b9,c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="OUAGADOUGOU">
+      <data key="d0">GEO</data>
+      <data key="d1">Capitale du Burkina Faso, lieu d'adoption de l'acte uniforme relatif au droit de l'arbitrage
+Capitale du Burkina Faso, lieu d'adoption de l'Acte Uniforme relatif au droit de l'arbitrage
+Capitale du Burkina Faso, lieu d'adoption de l'Acte Uniforme relatif au droit de l'arbitrage
+Capitale du Burkina Faso, lieu d'adoption de l'Acte Uniforme relatif au droit de l'arbitrage</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e,587cdc3e0e096e6a9eca0f564bb6df05,6377b0463feb8217c36e3890d4c4c075,9dd9fe1f162e62993366ced832ed67b9</data>
+    </node>
+    <node id="CONSEIL DES MINISTRES">
+      <data key="d0" />
+      <data key="d1">
+Organe de l'OHADA ayant adopt&#233; &#224; l'unanimit&#233; des Etats Parties pr&#233;sents et votants l'acte uniforme</data>
+      <data key="d2">76cdac3f16f7950e0556c5e24b55dba1,9dd9fe1f162e62993366ced832ed67b9</data>
+    </node>
+    <node id="PARTIE">
+      <data key="d0">ENTITY</data>
+      <data key="d1">Entit&#233;s impliqu&#233;es dans un processus d'arbitrage, ayant le droit de nommer des arbitres, de soulever des causes de r&#233;cusation et de participer &#224; la proc&#233;dure arbitrale</data>
+      <data key="d2">df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="JURIDICTION &#201;TATIQUE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Cour de justice officielle d'un pays, qui doit se d&#233;clarer incomp&#233;tente en pr&#233;sence d'une convention d'arbitrage sauf dans certains cas sp&#233;cifiques</data>
+      <data key="d2">df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="MISSION">
+      <data key="d0">EVENT</data>
+      <data key="d1">T&#226;che ou fonction assign&#233;e &#224; un arbitre ou &#224; un tribunal arbitral, pouvant &#234;tre accept&#233;e ou refus&#233;e et ayant une dur&#233;e limit&#233;e ou prorogeable</data>
+      <data key="d2">df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="LITIGE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Conflit ou d&#233;saccord soumis &#224; un tribunal arbitral ou &#224; une juridiction &#233;tatique pour r&#233;solution</data>
+      <data key="d2">df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="R&#200;GLEMENT D'ARBITRAGE">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Ensemble de r&#232;gles d&#233;finissant la proc&#233;dure et les modalit&#233;s de l'arbitrage, pouvant &#234;tre &#233;tabli par un organisme d'arbitrage ou convenu par les parties</data>
+      <data key="d2">df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="ORGANISME D'ARBITRAGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Entit&#233; sp&#233;cialis&#233;e dans la gestion des proc&#233;dures d'arbitrage, pouvant fournir un cadre r&#233;glementaire pour le d&#233;roulement de l'arbitrage</data>
+      <data key="d2">df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="R&#201;CUSATION">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">df06241b229ae8c1374c7b474f6c16a5</data>
+    </node>
+    <node id="PARTIES">
+      <data key="d0">ENTITY</data>
+      <data key="d1">Entit&#233;s impliqu&#233;es dans un litige soumis &#224; l'arbitrage, ayant la charge de prouver les faits pour soutenir leurs pr&#233;tentions</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="ARBITRES">
+      <data key="d0">ROLE</data>
+      <data key="d1">Individus nomm&#233;s par les parties ou par le tribunal arbitral pour juger le litige</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="SENTENCE ARBITRALE">
+      <data key="d0">EVENT</data>
+      <data key="d1">D&#233;cision finale rendue par le tribunal arbitral pour r&#233;soudre le litige entre les parties
+D&#233;cision finale rendue par un tribunal arbitral dans le cadre d'une proc&#233;dure d'arbitrage, ayant autorit&#233; de chose jug&#233;e et pouvant &#234;tre sujette &#224; ex&#233;cution provisoire, recours en annulation, ou r&#233;vision
+D&#233;cision rendue par un ou plusieurs arbitres dans le cadre d'un arbitrage</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e,587cdc3e0e096e6a9eca0f564bb6df05,6377b0463feb8217c36e3890d4c4c075</data>
+    </node>
+    <node id="PREUVE">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Informations ou documents pr&#233;sent&#233;s pour soutenir les pr&#233;tentions des parties dans un litige</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="FAIT">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">&#201;l&#233;ment ou circonstance utilis&#233; pour soutenir une pr&#233;tention ou une d&#233;fense dans le cadre de l'arbitrage</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="EXPLICATION DE FAIT">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Clarification ou d&#233;tail fourni par les parties concernant un fait pertinent au litige</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="DOCUMENT">
+      <data key="d0">OBJECT</data>
+      <data key="d1">Pi&#232;ces &#233;crites ou &#233;lectroniques pr&#233;sent&#233;es comme preuves dans le cadre de l'arbitrage</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="IRR&#201;GULARIT&#201;">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Violation des r&#232;gles ou proc&#233;dures &#233;tablies dans le cadre de l'arbitrage</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="V&#201;RIFICATION D'&#201;CRITURE">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Proc&#233;dure permettant de confirmer l'authenticit&#233; d'un document &#233;crit</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="FAUX">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Falsification ou contrefa&#231;on de documents ou de faits dans le cadre de l'arbitrage</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="D&#201;LIB&#201;RATION">
+      <data key="d0">EVENT</data>
+      <data key="d1">Processus par lequel les arbitres discutent et d&#233;cident du verdict du litige</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="MAJORIT&#201; DES VOIX">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Principe selon lequel la d&#233;cision est prise en fonction de l'opinion de la majorit&#233; des arbitres</data>
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="LOI DE PROC&#201;DURE">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </node>
+    <node id="RECOURS EN ANNULATION">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Proc&#233;dure l&#233;gale permettant de contester la validit&#233; d'une sentence arbitrale devant le juge comp&#233;tent dans l'Etat-partie
+Proc&#233;dure l&#233;gale permettant de contester la validit&#233; d'une sentence arbitrale dans les limites de la saisine du juge comp&#233;tent</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e,6377b0463feb8217c36e3890d4c4c075</data>
+    </node>
+    <node id="EX&#201;CUTION PROVISOIRE">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Mesure permettant l'ex&#233;cution d'une sentence arbitrale avant que tous les recours possibles soient &#233;puis&#233;s</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </node>
+    <node id="RECOURS EN R&#201;VISION">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Proc&#233;dure permettant de demander la r&#233;vision d'une sentence arbitrale en raison de la d&#233;couverte de faits nouveaux pouvant influencer la d&#233;cision</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </node>
+    <node id="TIERCE OPPOSITION">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Moyen par lequel une personne physique ou morale, non partie &#224; l'arbitrage initial, peut contester une sentence arbitrale qui pr&#233;judicie &#224; ses droits</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </node>
+    <node id="PRINCIPE DU CONTRADICTOIRE">
+      <data key="d0">PRINCIPLE</data>
+      <data key="d1">Principe juridique selon lequel chaque partie doit avoir la possibilit&#233; de conna&#238;tre et de discuter les &#233;l&#233;ments soumis au juge ou &#224; l'arbitre</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </node>
+    <node id="R&#200;GLE D'ORDRE PUBLIC INTERNATIONAL">
+      <data key="d0">LAW</data>
+      <data key="d1">Ensemble de principes consid&#233;r&#233;s comme fondamentaux dans l'ordre juridique international, dont la violation peut entra&#238;ner l'annulation d'une sentence arbitrale</data>
+      <data key="d2">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </node>
+    <node id="EXEQUATUR">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Processus l&#233;gal permettant la reconnaissance et l'ex&#233;cution d'une sentence arbitrale dans un Etat-partie</data>
+      <data key="d2">6377b0463feb8217c36e3890d4c4c075</data>
+    </node>
+    <node id="ETATS-PARTIES">
+      <data key="d0">GEO</data>
+      <data key="d1">Pays membres de l'OHADA, juridictions dans lesquelles l'Acte Uniforme relatif au droit de l'arbitrage est applicable</data>
+      <data key="d2">6377b0463feb8217c36e3890d4c4c075</data>
+    </node>
+    <node id="REGLE D'ORDRE PUBLIC INTERNATIONAL">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Principes fondamentaux reconnus par les Etats-parties, dont la violation par une sentence arbitrale peut entra&#238;ner le refus de son exequatur</data>
+      <data key="d2">6377b0463feb8217c36e3890d4c4c075</data>
+    </node>
+    <node id="POURVOI EN CASSATION">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Proc&#233;dure l&#233;gale permettant de contester une d&#233;cision judiciaire devant la Cour Commune de Justice et d'Arbitrage</data>
+      <data key="d2">6377b0463feb8217c36e3890d4c4c075</data>
+    </node>
+    <node id="VALIDIT&#201; DE LA SENTENCE ARBITRALE">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Reconnaissance juridique de l'effet et de l'autorit&#233; d'une sentence arbitrale dans les Etats-parties</data>
+      <data key="d2">6377b0463feb8217c36e3890d4c4c075</data>
+    </node>
+    <node id="CONVENTIONS INTERNATIONALES">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Accords entre pays qui, en l'absence de dispositions sp&#233;cifiques de l'Acte Uniforme, r&#233;gulent la reconnaissance des sentences arbitrales</data>
+      <data key="d2">6377b0463feb8217c36e3890d4c4c075</data>
+    </node>
+    <node id="TRADUCTEUR INSCRIT">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6377b0463feb8217c36e3890d4c4c075</data>
+    </node>
+    <node id="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Document l&#233;gal r&#233;gulant les contrats de transport de marchandises par route, adopt&#233; le 22/03/2003 &#224; Yaound&#233;, Cameroun et publi&#233; au Journal Officiel n&#176; 13 du 31/07/2003
+
+Document l&#233;gal r&#233;gulant les contrats de transport de marchandises par route, adopt&#233; &#224; Yaound&#233;, Cameroun, le 22/03/2003
+Document l&#233;gal adopt&#233; &#224; Yaound&#233;, Cameroun, le 22/03/2003, r&#233;gulant les contrats de transport de marchandises par route
+Document l&#233;gal adopt&#233; &#224; Yaound&#233;, Cameroun, le 22/03/2003, r&#233;gulant les contrats de transport de marchandises par route
+Document l&#233;gal r&#233;gulant les contrats de transport de marchandises par route, adopt&#233; &#224; Yaound&#233;, Cameroun
+Document l&#233;gal adopt&#233; &#224; Yaound&#233;, Cameroun, le 22/03/2003, r&#233;gulant les contrats de transport de marchandises par route
+Document l&#233;gal adopt&#233; &#224; Yaound&#233;, Cameroun, le 22/03/2003, r&#233;gulant les contrats de transport de marchandises par route
+Document l&#233;gal adopt&#233; &#224; Yaound&#233;, Cameroun, le 22/03/2003, r&#233;gulant les contrats de transport de marchandises par route</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914,5137ff575f117d29edce34015cf7b7da,621a8bcde98b24680cece1ad771ba5d6,76cdac3f16f7950e0556c5e24b55dba1,8efd8b09d7df42d7b6a0a29cf1db01f1,c045b3f78c3dd73695f12f7e7857ce41,ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="ETAT MEMBRE DE L'OHADA">
+      <data key="d0">GEO</data>
+      <data key="d1">&#201;tat faisant partie de l'organisation OHADA et concern&#233; par l'application de l'acte uniforme</data>
+      <data key="d2">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </node>
+    <node id="CONTRAT DE TRANSPORT DE MARCHANDISES">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Contrat par lequel un transporteur s'engage &#224; d&#233;placer des marchandises d'un lieu &#224; un autre moyennant r&#233;mun&#233;ration</data>
+      <data key="d2">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </node>
+    <node id="MARCHANDISE">
+      <data key="d0">OBJECT</data>
+      <data key="d1">Tout bien mobilier sujet au transport par route selon les termes de l'acte uniforme
+Objet du contrat de transport, pouvant inclure des marchandises dangereuses et n&#233;cessitant des instructions sp&#233;cifiques pour les formalit&#233;s de douane
+Objet du contrat de transport, pouvant &#234;tre sujet &#224; des dommages ou causer des dommages en raison d'un emballage d&#233;fectueux
+Objet du contrat de transport, sujet aux instructions donn&#233;es par l'exp&#233;diteur ou &#224; des modifications de route
+Objet du contrat de transport, sujet &#224; livraison, paiement des cr&#233;ances, et potentiellement &#224; des pertes ou avaries
+Objet du contrat de transport, sujet &#224; des droits de privil&#232;ge pour le transporteur en cas de non-paiement
+Objet du contrat de transport, susceptible d'&#234;tre affect&#233; par des conditions telles que la chaleur, le froid, les variations de temp&#233;rature, ou l'humidit&#233;
+Objet du contrat de transport, pouvant subir des pertes, avaries ou retards
+Objet du contrat de transport, dont la livraison est r&#233;gul&#233;e par l'Acte Uniforme relatif aux contrats de transport de marchandises par route</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914,5137ff575f117d29edce34015cf7b7da,621a8bcde98b24680cece1ad771ba5d6,76cdac3f16f7950e0556c5e24b55dba1,8efd8b09d7df42d7b6a0a29cf1db01f1,c045b3f78c3dd73695f12f7e7857ce41,ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="MARCHANDISE DANGEREUSE">
+      <data key="d0">OBJECT</data>
+      <data key="d1">Marchandise pr&#233;sentant un risque pour l'environnement, la s&#233;curit&#233; ou l'int&#233;grit&#233; des personnes ou des biens
+Type de marchandise qui pr&#233;sente un risque pour la s&#233;curit&#233; ou l'int&#233;grit&#233; des personnes ou d'autres marchandises durant le transport
+Objet du transport qui, en raison de sa nature ou de son caract&#232;re, peut causer des pr&#233;judices s'il n'est pas correctement d&#233;clar&#233;</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6,76cdac3f16f7950e0556c5e24b55dba1,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="TRANSPORTEUR">
+      <data key="d0">ROLE</data>
+      <data key="d1">Personne physique ou morale s'engageant &#224; d&#233;placer des marchandises par route
+Personne physique ou morale qui prend la responsabilit&#233; d'acheminer la marchandise du lieu de d&#233;part au lieu de destination au moyen d'un v&#233;hicule routier
+L'entit&#233; charg&#233;e du transport de la marchandise, qui n'est pas tenue d'examiner l'exactitude des documents fournis par l'exp&#233;diteur
+L'entit&#233; charg&#233;e du transport de la marchandise, pouvant refuser, d&#233;charger, d&#233;truire ou rendre inoffensives les marchandises dangereuses non d&#233;clar&#233;es comme telles
+Entit&#233; ou individu responsable du transport de marchandises, devant suivre les instructions donn&#233;es et pouvant demander des d&#233;dommagements pour les frais engendr&#233;s par ces instructions
+Entit&#233; responsable du transport de la marchandise, tenue d'aviser le destinataire de l'arriv&#233;e et des conditions de retrait
+La partie charg&#233;e du transport de la marchandise, ayant des droits de r&#233;clamation financi&#232;re contre le destinataire ou le donneur d'ordre
+Entit&#233; charg&#233;e de l'ex&#233;cution du transport de marchandises, responsable de la prise de mesures ad&#233;quates pour prot&#233;ger les marchandises et de se conformer aux instructions sp&#233;ciales
+Entit&#233; ou individu responsable du transport de marchandises, sujet &#224; des r&#232;gles sp&#233;cifiques de responsabilit&#233; dans le cadre de l'Acte uniforme
+Entit&#233; charg&#233;e du transport de marchandises selon les termes du contrat de transport</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914,5137ff575f117d29edce34015cf7b7da,621a8bcde98b24680cece1ad771ba5d6,76cdac3f16f7950e0556c5e24b55dba1,8efd8b09d7df42d7b6a0a29cf1db01f1,c045b3f78c3dd73695f12f7e7857ce41,ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="EXPEDITEUR">
+      <data key="d0">ROLE</data>
+      <data key="d1">Personne qui remet les marchandises au transporteur pour le transport</data>
+      <data key="d2">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </node>
+    <node id="LETTRE DE VOITURE">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">&#201;crit constatant le contrat de transport de marchandises
+Document contenant les d&#233;tails du contrat de transport, y compris les informations sur l'exp&#233;diteur, le transporteur, et la marchandise
+Document accompagnant la marchandise transport&#233;e, contenant des informations et des instructions pour le transporteur
+Document officiel utilis&#233; dans le transport de marchandises, contenant des informations sur la marchandise et les conditions de transport
+Document officiel accompagnant la marchandise, contenant les d&#233;tails du contrat de transport et pouvant &#234;tre exig&#233; par le transporteur pour l'ex&#233;cution des instructions
+Document accompagnant la marchandise, d&#233;taillant les termes du transport et les cr&#233;ances r&#233;sultant du contrat
+Document utilis&#233; pour consigner des d&#233;tails relatifs au transport de marchandises, y compris les obligations financi&#232;res du destinataire
+Document officiel accompagnant la marchandise transport&#233;e, contenant les d&#233;tails du transport et servant de preuve du contrat
+Document officiel &#233;mis par le transporteur &#233;metteur, d&#233;taillant les termes du contrat de transport de marchandises</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914,5137ff575f117d29edce34015cf7b7da,621a8bcde98b24680cece1ad771ba5d6,76cdac3f16f7950e0556c5e24b55dba1,8efd8b09d7df42d7b6a0a29cf1db01f1,c045b3f78c3dd73695f12f7e7857ce41,e5545ffc2d2770c13bb5f00c9552d741,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="&#201;CRIT">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Une suite de lettres, de caract&#232;res, de chiffres ou d'autres signes ayant une signification intelligible, pouvant &#234;tre sur papier ou un support num&#233;rique</data>
+      <data key="d2">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </node>
+    <node id="TRANSPORT DE D&#201;M&#201;NAGEMENT">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Le transport de biens mobiliers usag&#233;s, avec conditionnement assur&#233; par le transporteur, ne constituant pas la prestation principale</data>
+      <data key="d2">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </node>
+    <node id="TRANSPORT FUN&#201;RAIRE">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Le transport du corps d'une personne d&#233;c&#233;d&#233;e
+Le transport du corps d'une personne d&#233;c&#233;d&#233;e</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,76cdac3f16f7950e0556c5e24b55dba1</data>
+    </node>
+    <node id="TRANSPORT SUCCESSIF">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Transport o&#249; plusieurs transporteurs routiers se succ&#232;dent pour ex&#233;cuter un unique contrat de transport par route
+Transport o&#249; plusieurs transporteurs routiers se succ&#232;dent pour ex&#233;cuter un unique contrat de transport par route
+Transport de marchandises effectu&#233; par plusieurs transporteurs successifs, chacun devenant partie au contrat de transport</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914,76cdac3f16f7950e0556c5e24b55dba1</data>
+    </node>
+    <node id="TRANSPORT SUPERPOS&#201;">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Transport o&#249; un v&#233;hicule routier contenant des marchandises est lui-m&#234;me transport&#233; dans le cadre d'un unique contrat de transport routier
+Transport o&#249; un v&#233;hicule routier contenant des marchandises est transport&#233; sur ou dans un v&#233;hicule non routier sur une partie du parcours, sans rupture de charge, dans le cadre d'un unique contrat de transport routier
+Transport de marchandises impliquant plusieurs modes de transport, avec des r&#232;gles sp&#233;cifiques pour la partie non routi&#232;re</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914,76cdac3f16f7950e0556c5e24b55dba1</data>
+    </node>
+    <node id="V&#201;HICULE">
+      <data key="d0">OBJECT</data>
+      <data key="d1">Tout v&#233;hicule routier &#224; moteur ou toute remorque ou semi-remorque sur essieu arri&#232;re dont l'avant repose sur le v&#233;hicule tracteur, con&#231;ue pour &#234;tre attel&#233;e &#224; un tel v&#233;hicule
+Moyen de transport utilis&#233; pour le transport de marchandises</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="CONTRAT DE TRANSPORT">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Accord entre le donneur d'ordre et le transporteur pour le d&#233;placement d'une marchandise moyennant un prix convenu
+Accord l&#233;gal entre l'exp&#233;diteur et le transporteur d&#233;finissant les conditions de transport de la marchandise, y compris la livraison et les instructions sp&#233;cifiques
+Accord entre l'exp&#233;diteur, le transporteur et le destinataire, d&#233;finissant les droits et obligations li&#233;s au transport de la marchandise
+Accord l&#233;gal entre le donneur d'ordre et le transporteur pour le transport de marchandise
+Accord l&#233;gal entre l'exp&#233;diteur et le transporteur concernant le transport de marchandises</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,5137ff575f117d29edce34015cf7b7da,8efd8b09d7df42d7b6a0a29cf1db01f1,c045b3f78c3dd73695f12f7e7857ce41,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="EXP&#201;DITEUR">
+      <data key="d0">ROLE</data>
+      <data key="d1">Personne ou entit&#233; qui envoie la marchandise, responsable de fournir les documents n&#233;cessaires pour le transport et les formalit&#233;s douani&#232;res
+L'entit&#233; qui envoie la marchandise, responsable de fournir les documents n&#233;cessaires et les renseignements utiles au transporteur
+L'entit&#233; qui remet la marchandise au transporteur, responsable de la d&#233;claration de la nature exacte de la marchandise, notamment si elle est dangereuse ou de grande valeur
+Personne ou entit&#233; qui envoie les marchandises, pouvant donner des instructions au transporteur et demander des informations sur le transport
+Entit&#233; qui envoie la marchandise, pouvant &#234;tre diff&#233;rente du donneur d'ordre pour le paiement des cr&#233;ances
+Entit&#233; qui envoie la marchandise, pouvant d&#233;clarer une valeur ou un int&#233;r&#234;t sp&#233;cial &#224; la livraison pour augmenter le montant de l'indemnit&#233;
+L'entit&#233; qui envoie la marchandise, participant au contrat de transport de marchandises par route</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,621a8bcde98b24680cece1ad771ba5d6,8efd8b09d7df42d7b6a0a29cf1db01f1,c045b3f78c3dd73695f12f7e7857ce41,ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="DESTINATAIRE">
+      <data key="d0">ROLE</data>
+      <data key="d1">Personne ou entit&#233; destin&#233;e &#224; recevoir la marchandise transport&#233;e
+L'entit&#233; &#224; qui la marchandise est finalement livr&#233;e, pouvant acqu&#233;rir le droit de disposition si cela est indiqu&#233; dans la lettre de voiture
+Personne ou entit&#233; destin&#233;e &#224; recevoir les marchandises transport&#233;es, ayant le droit de prendre livraison de la marchandise
+Entit&#233; destin&#233;e &#224; recevoir la marchandise, responsable du paiement des cr&#233;ances et de la r&#233;ception dans les d&#233;lais impartis
+La partie qui re&#231;oit la marchandise transport&#233;e, responsable du paiement des sommes dues selon la lettre de voiture</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,5137ff575f117d29edce34015cf7b7da,8efd8b09d7df42d7b6a0a29cf1db01f1,c045b3f78c3dd73695f12f7e7857ce41,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="DOCUMENTS DE DOUANE">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Documents requis pour l'accomplissement des formalit&#233;s de douane et autres formalit&#233;s avant la livraison de la marchandise</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4</data>
+    </node>
+    <node id="YAOUND&#201;">
+      <data key="d0">GEO</data>
+      <data key="d1">Capitale du Cameroun, lieu d'adoption de l'Acte Uniforme relatif aux contrats de transport de marchandises par route
+Capitale du Cameroun, lieu d'adoption de l'Acte Uniforme relatif aux contrats de transport de marchandises par route
+Capitale du Cameroun, lieu d'adoption de l'Acte Uniforme relatif aux contrats de transport de marchandises par route
+Capitale du Cameroun, lieu d'adoption de l'Acte Uniforme relatif aux contrats de transport de marchandises par route
+
+Capitale du Cameroun, lieu de signature de l'Acte uniforme</data>
+      <data key="d2">0c4d237251bb238dda537233b9f16cf4,17494ca31f27e71f223d8ff914126361,2bffff2bfd8dc66408384937c8084914,621a8bcde98b24680cece1ad771ba5d6,ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="DOCUMENTS">
+      <data key="d0">OBJECT</data>
+      <data key="d1">Les papiers n&#233;cessaires fournis par l'exp&#233;diteur au transporteur pour le transport de la marchandise</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="DOMMAGES">
+      <data key="d0">EVENT</data>
+      <data key="d1">Pr&#233;judices r&#233;sultant de l'absence, de l'insuffisance ou de l'irr&#233;gularit&#233; des documents et renseignements fournis par l'exp&#233;diteur</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="EMBALLAGE">
+      <data key="d0">OBJECT</data>
+      <data key="d1">Conditionnement de la marchandise pour le transport, dont la qualit&#233; est de la responsabilit&#233; de l'exp&#233;diteur</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="RESPONSABILIT&#201;">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Obligation de l'exp&#233;diteur de couvrir les dommages r&#233;sultant de documents insuffisants ou incorrects
+Obligation de r&#233;pondre des dommages caus&#233;s pendant le transport de marchandises et de payer l'indemnit&#233; correspondante</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="MANDATAIRE">
+      <data key="d0">ROLE</data>
+      <data key="d1">Statut du transporteur en ce qui concerne la gestion des documents de transport, agissant pour le compte de l'exp&#233;diteur</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="PERTE DE LA MARCHANDISE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Incident o&#249; la marchandise est perdue durant le transport</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="INDEMNIT&#201;">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Compensation financi&#232;re due en cas de perte ou d'utilisation inexacte des documents ou de la marchandise
+Compensation financi&#232;re pour perte ou dommage, que le transporteur n'a pas &#224; payer pour les marchandises dangereuses non d&#233;clar&#233;es
+Compensation financi&#232;re due pour avarie, perte totale ou partielle de la marchandise, ou dommage suppl&#233;mentaire r&#233;sultant d'un retard
+Compensation financi&#232;re due pour un dommage subi pendant le transport de marchandises</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6,ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="D&#201;FECTUOSIT&#201; DE L'EMBALLAGE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Situation o&#249; l'emballage de la marchandise est insuffisant ou inad&#233;quat, pouvant causer des dommages</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="S&#201;CURIT&#201;">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">&#201;tat de protection contre les risques ou dommages pour les personnes ou les marchandises durant le transport</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="BRIS D'EMBALLAGE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Incident o&#249; l'emballage de la marchandise se rompt ou est endommag&#233; durant le transport</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="GARDE DE LA MARCHANDISE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Responsabilit&#233; assum&#233;e par le transporteur ou un tiers pour la protection de la marchandise apr&#232;s un incident</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="CR&#201;ANCES">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Obligations financi&#232;res ou dettes associ&#233;es &#224; la lettre de voiture et au transport de la marchandise</data>
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="INFORMATIONS UTILES">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">621a8bcde98b24680cece1ad771ba5d6</data>
+    </node>
+    <node id="DOCUMENTS, ESP&#200;CES OU MARCHANDISES DE GRANDE VALEUR">
+      <data key="d0">OBJECT</data>
+      <data key="d1">Objets de valeur &#233;lev&#233;e dont la nature ou la valeur doit &#234;tre d&#233;clar&#233;e avant le transport</data>
+      <data key="d2">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="PR&#201;JUDICE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Dommage ou perte subi en raison du transport de marchandises non correctement d&#233;clar&#233;es
+Dommage ou perte r&#233;sultant de l'ex&#233;cution ou de la non-ex&#233;cution des instructions donn&#233;es au transporteur</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="DROIT DE DISPOSITION">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Droit de l'exp&#233;diteur ou du destinataire de modifier les conditions de transport, y compris l'arr&#234;t du transport, la modification du lieu de livraison ou le changement de destinataire</data>
+      <data key="d2">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="RISQUES">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Les dangers ou les cons&#233;quences n&#233;gatives associ&#233;s au transport de marchandises, en particulier celles non correctement d&#233;clar&#233;es</data>
+      <data key="d2">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="DUR&#201;E DE TRANSPORT">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">La p&#233;riode qui s'&#233;tend de la prise en charge de la marchandise par le transporteur jusqu'&#224; sa livraison</data>
+      <data key="d2">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="V&#201;RIFICATION">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Action de contr&#244;ler l'exactitude des informations sur la marchandise, y compris le nombre de colis, leurs marques, leurs num&#233;ros, et l'&#233;tat de la marchandise et de son emballage</data>
+      <data key="d2">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="R&#201;SERVES">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Observations ou objections formul&#233;es par le transporteur concernant l'&#233;tat ou les informations de la marchandise, inscrites sur la lettre de voiture</data>
+      <data key="d2">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="PAIEMENT DES FRAIS DE V&#201;RIFICATION">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">D&#233;penses que l'exp&#233;diteur doit couvrir pour la v&#233;rification du poids brut ou de la quantit&#233; de la marchandise effectu&#233;e par le transporteur</data>
+      <data key="d2">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="FRAIS D'ENTREPOSAGE">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </node>
+    <node id="INSTRUCTIONS">
+      <data key="d0">DOCUMENT, PROCESS</data>
+      <data key="d1">Directives donn&#233;es au transporteur concernant le transport de marchandises, pouvant inclure des modifications de l'itin&#233;raire ou des conditions de livraison</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="FRAIS">
+      <data key="d0">FINANCIAL</data>
+      <data key="d1">Co&#251;ts engendr&#233;s par l'ex&#233;cution des instructions ou par des modifications dans le processus de transport</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="AYANT DROIT">
+      <data key="d0">ROLE</data>
+      <data key="d1">Personne ou entit&#233; ayant un droit l&#233;gal sur la marchandise transport&#233;e, pouvant donner des instructions au transporteur et recevoir des notifications en cas de probl&#232;mes de transport
+Personne ou entit&#233; ayant le droit de r&#233;clamer une indemnit&#233; en cas de dommage, de perte, ou de retard dans la livraison de la marchandise</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41,ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="CONSERVATION">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Action de garder ou d'entreposer la marchandise apr&#232;s le transport, pour laquelle le transporteur peut demander une r&#233;mun&#233;ration</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="ENTREPOSAGE">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Processus de stockage de la marchandise, pouvant &#234;tre effectu&#233; par le transporteur ou un tiers apr&#232;s la livraison</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="R&#201;MUN&#201;RATION">
+      <data key="d0">FINANCIAL</data>
+      <data key="d1">Paiement demand&#233; ou re&#231;u pour un service, ici concernant la conservation ou l'entreposage de la marchandise</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="TIERS">
+      <data key="d0">ROLE</data>
+      <data key="d1">Autre partie impliqu&#233;e dans le processus de transport, &#224; qui le transporteur peut confier la marchandise pour l'entreposage</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="VENTE DE LA MARCHANDISE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Action entreprise par le transporteur pour vendre la marchandise sous certaines conditions, notamment en cas de p&#233;rissabilit&#233; ou de frais de garde disproportionn&#233;s</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="LOI">
+      <data key="d0">LAW</data>
+      <data key="d1">Ensemble de r&#232;gles r&#233;gissant la proc&#233;dure de vente de la marchandise par le transporteur</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="USAGES">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Pratiques ou coutumes locales influen&#231;ant la proc&#233;dure de vente de la marchandise par le transporteur</data>
+      <data key="d2">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </node>
+    <node id="LIVRAISON">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Processus de remise de la marchandise au destinataire, incluant la remise de la lettre de voiture et la r&#233;ception contre d&#233;charge</data>
+      <data key="d2">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </node>
+    <node id="AVIS D'ARRIV&#201;E">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Notification par le transporteur au destinataire de l'arriv&#233;e de la marchandise et des conditions de son enl&#232;vement</data>
+      <data key="d2">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </node>
+    <node id="PERTES OU AVARIES">
+      <data key="d0">EVENT</data>
+      <data key="d1">Dommages ou manques subis par la marchandise pendant le transport, sujet &#224; d&#233;claration et potentiellement &#224; indemnisation</data>
+      <data key="d2">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </node>
+    <node id="IND&#201;MNISATION">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Processus de compensation financi&#232;re pour les pertes, avaries ou retards subis par la marchandise pendant le transport</data>
+      <data key="d2">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </node>
+    <node id="CAUTION">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Garantie financi&#232;re fournie par le destinataire au transporteur en cas de contestation sur le paiement des cr&#233;ances</data>
+      <data key="d2">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </node>
+    <node id="CONSTATATION COMMUNE">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Document &#233;crit r&#233;alis&#233; conjointement par le transporteur et le destinataire sur l'&#233;tat de la marchandise &#224; la livraison</data>
+      <data key="d2">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </node>
+    <node id="AVIS &#201;CRIT">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Notification &#233;crite adress&#233;e par le destinataire au transporteur indiquant la nature des pertes ou avaries</data>
+      <data key="d2">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </node>
+    <node id="DONNEUR D'ORDRE">
+      <data key="d0" />
+      <data key="d1">
+La partie qui donne l'instruction pour le transport de la marchandise, potentiellement responsable du paiement si le destinataire refuse de payer</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da,8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </node>
+    <node id="RESPONSABILIT&#201; DU TRANSPORTEUR">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Obligation du transporteur de livrer la marchandise &#224; destination sans avarie, perte, ou retard, sous peine de responsabilit&#233;</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="AVARIE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Dommage ou d&#233;t&#233;rioration de la marchandise pendant le transport</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="PERTE TOTALE OU PARTIELLE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Situation o&#249; la marchandise est consid&#233;r&#233;e comme totalement ou partiellement perdue pendant le transport</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="RETARD &#192; LA LIVRAISON">
+      <data key="d0">EVENT</data>
+      <data key="d1">Livraison de la marchandise apr&#232;s le d&#233;lai convenu ou raisonnable</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="EXON&#201;RATION DE RESPONSABILIT&#201;">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Circonstances sous lesquelles le transporteur n'est pas tenu responsable de la perte, de l'avarie, ou du retard
+Clause permettant au transporteur de limiter sa responsabilit&#233; en cas de dommage, perte ou retard</data>
+      <data key="d2">2bffff2bfd8dc66408384937c8084914,5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="D&#201;LAI DE LIVRAISON">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">P&#233;riode convenue ou raisonnable accord&#233;e pour la livraison de la marchandise</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="FAUTE DE L'AYANT DROIT">
+      <data key="d0">EVENT</data>
+      <data key="d1">Action ou omission par l'ayant droit menant &#224; la perte, l'avarie ou le retard de la marchandise</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="VICE PROPRE DE LA MARCHANDISE">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">D&#233;faut inh&#233;rent &#224; la marchandise qui contribue &#224; sa perte ou avarie</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="CIRCONSTANCES IN&#201;VITABLES">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Situations hors du contr&#244;le du transporteur affectant la livraison de la marchandise</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="RISQUES PARTICULIERS">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Risques inh&#233;rents &#224; certaines conditions de transport pouvant exon&#233;rer le transporteur de sa responsabilit&#233;</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="PR&#201;POS&#201;S OU MANDATAIRES">
+      <data key="d0">ROLE</data>
+      <data key="d1">Personnes ou entit&#233;s agissant pour le compte du transporteur dans l'ex&#233;cution du contrat de transport</data>
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="PRIVIL&#200;GE">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5137ff575f117d29edce34015cf7b7da</data>
+    </node>
+    <node id="DOMMAGE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Pr&#233;judice subi par la marchandise pendant le transport, pouvant r&#233;sulter de manquants, de pertes, ou d'autres facteurs
+
+Pr&#233;judice ou perte subie pendant le transport de marchandises, pouvant entra&#238;ner une indemnit&#233;</data>
+      <data key="d2">2bffff2bfd8dc66408384937c8084914,ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="FRANCS CFA">
+      <data key="d0">CURRENCY</data>
+      <data key="d1">Unit&#233; mon&#233;taire utilis&#233;e pour le calcul de l'indemnit&#233; en cas de dommage ou de perte de la marchandise
+Monnaie utilis&#233;e dans certains pays africains, r&#233;f&#233;rence pour la conversion des montants dans le cadre du transport inter-&#201;tats</data>
+      <data key="d2">2bffff2bfd8dc66408384937c8084914,ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="EXON&#201;RATION">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">B&#233;n&#233;fice l&#233;gal permettant au transporteur de ne pas &#234;tre tenu responsable sous certaines conditions sp&#233;cifiques</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="INSTRUCTIONS SP&#201;CIALES">
+      <data key="d0">INFORMATION</data>
+      <data key="d1">Directives donn&#233;es au transporteur concernant le transport, l'entretien, et l'emploi des am&#233;nagements du v&#233;hicule pour la protection des marchandises</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="FACTEURS DE DOMMAGE">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">&#201;l&#233;ments ou circonstances contribuant au dommage subi par la marchandise pendant le transport</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="PROPORTION">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Mesure de la responsabilit&#233; du transporteur bas&#233;e sur la contribution des facteurs de dommage dont il est responsable</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="VALEUR DE LA MARCHANDISE">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Estimation financi&#232;re de la marchandise bas&#233;e sur le prix courant du march&#233;, incluant le prix du transport, les droits de douane, et autres frais</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="PRIX DU TRANSPORT">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Co&#251;t associ&#233; au transport de la marchandise, inclus dans le calcul de l'indemnit&#233; en cas de dommage</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="DROITS DE DOUANE">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Taxes impos&#233;es sur les marchandises transport&#233;es, prises en compte dans le calcul de la valeur de la marchandise pour l'indemnit&#233;</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="D&#201;CLARATION DE VALEUR">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Document par lequel l'exp&#233;diteur d&#233;clare la valeur de la marchandise, influen&#231;ant le montant de l'indemnit&#233; en cas de dommage</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="INT&#201;R&#202;T SP&#201;CIAL &#192; LA LIVRAISON">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">D&#233;claration sp&#233;cifique augmentant l'indemnit&#233; due en cas de dommage, bas&#233;e sur la valeur particuli&#232;re ou l'importance de la livraison</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="D&#201;PR&#201;CIATION">
+      <data key="d0">EVENT</data>
+      <data key="d1">R&#233;duction de la valeur de la marchandise due &#224; l'avarie, calcul&#233;e pour d&#233;terminer le montant de l'indemnit&#233;</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="INT&#201;R&#202;TS DE L'IND&#201;MNIT&#201;">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Int&#233;r&#234;ts financiers dus sur l'indemnit&#233;, calcul&#233;s &#224; un taux annuel &#224; partir de la date de la r&#233;clamation ou de la demande en justice</data>
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="TRANSPORT INTER-&#201;TATS">
+      <data key="d0">EVENT</data>
+      <data key="d1">Transport de marchandises effectu&#233; entre diff&#233;rents &#201;tats, impliquant des r&#232;gles sp&#233;cifiques pour le calcul de l'indemnit&#233;
+Transport de marchandises entre diff&#233;rents &#201;tats, impliquant des r&#232;gles sp&#233;cifiques pour le calcul de l'indemnit&#233; en cas de dommage ou retard</data>
+      <data key="d2">2bffff2bfd8dc66408384937c8084914,ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="V&#201;HICULE AM&#201;NAG&#201;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </node>
+    <node id="RESPONSABILIT&#201; EXTRA-CONTRACTUELLE">
+      <data key="d0">LEGAL CONCEPT</data>
+      <data key="d1">Obligations l&#233;gales ne d&#233;coulant pas directement d'un contrat mais de dommages caus&#233;s &#224; autrui</data>
+      <data key="d2">2bffff2bfd8dc66408384937c8084914</data>
+    </node>
+    <node id="LIMITATION DE RESPONSABILIT&#201;">
+      <data key="d0">LEGAL CONCEPT</data>
+      <data key="d1">Limitation l&#233;gale de la somme pouvant &#234;tre r&#233;clam&#233;e en compensation des dommages, pertes ou retards</data>
+      <data key="d2">2bffff2bfd8dc66408384937c8084914</data>
+    </node>
+    <node id="ACTION EN JUSTICE">
+      <data key="d0">EVENT</data>
+      <data key="d1">Proc&#233;dure l&#233;gale engag&#233;e pour r&#233;clamer des dommages ou faire valoir un droit</data>
+      <data key="d2">2bffff2bfd8dc66408384937c8084914</data>
+    </node>
+    <node id="PRESCRIPTION">
+      <data key="d0">LEGAL CONCEPT</data>
+      <data key="d1">D&#233;lai l&#233;gal au-del&#224; duquel aucune action en justice ne peut &#234;tre engag&#233;e
+P&#233;riode apr&#232;s laquelle une action l&#233;gale ne peut plus &#234;tre intent&#233;e</data>
+      <data key="d2">2bffff2bfd8dc66408384937c8084914,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="TRANSPORT ROUTIER">
+      <data key="d0">EVENT</data>
+      <data key="d1">Transport de marchandises effectu&#233; par voie routi&#232;re, sujet &#224; des r&#232;gles sp&#233;cifiques selon l'Acte uniforme</data>
+      <data key="d2">2bffff2bfd8dc66408384937c8084914</data>
+    </node>
+    <node id="TRANSPORTEUR &#201;METTEUR">
+      <data key="d0">ROLE</data>
+      <data key="d1">Le transporteur initial dans la cha&#238;ne de transport, responsable de l'&#233;mission de la lettre de voiture</data>
+      <data key="d2">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="TRANSPORTEURS SUCCESSIFS">
+      <data key="d0">ROLE</data>
+      <data key="d1">Les diff&#233;rents transporteurs impliqu&#233;s dans le processus de transport de marchandises par route, chacun jouant un r&#244;le dans la cha&#238;ne de transport</data>
+      <data key="d2">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="R&#201;MUN&#201;RATION DU TRANSPORT">
+      <data key="d0">FINANCIAL</data>
+      <data key="d1">Paiement re&#231;u par les transporteurs pour le service de transport de marchandises</data>
+      <data key="d2">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="ARBITRAGE">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Processus de r&#233;solution de conflit o&#249; les parties choisissent un ou plusieurs arbitres pour prendre une d&#233;cision</data>
+      <data key="d2">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="JURIDICTION COMP&#201;TENTE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Entit&#233; l&#233;gale comp&#233;tente pour juger des affaires et des litiges, y compris ceux li&#233;s aux contrats de transport de marchandises</data>
+      <data key="d2">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="RECOURS">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Action en justice qu'un transporteur peut intenter pour r&#233;cup&#233;rer l'indemnit&#233; pay&#233;e en cas de dommage</data>
+      <data key="d2">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="D&#201;LAI DE R&#201;CLAMATION">
+      <data key="d0">TIME</data>
+      <data key="d1">P&#233;riode pendant laquelle une r&#233;clamation peut &#234;tre faite concernant le transport de marchandises</data>
+      <data key="d2">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </node>
+    <node id="JUGEMENT">
+      <data key="d0">EVENT</data>
+      <data key="d1">D&#233;cision rendue par une juridiction, devenue ex&#233;cutoire dans un Etat-partie et reconnue dans les autres pays membres</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="FORMALIT&#201;S">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Proc&#233;dures requises pour rendre un jugement ex&#233;cutoire dans un Etat autre que celui o&#249; il a &#233;t&#233; &#233;mis</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="JUGEMENTS CONTRADICTOIRES">
+      <data key="d0">EVENT</data>
+      <data key="d1">D&#233;cisions judiciaires rendues apr&#232;s un d&#233;bat entre les parties</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="TRANSACTIONS JUDICIAIRES">
+      <data key="d0">EVENT</data>
+      <data key="d1">Accords entre les parties approuv&#233;s par un juge et ayant force ex&#233;cutoire</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="ACTE UNIFORME">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Document l&#233;gal r&#233;gulant certaines mati&#232;res, ici les contrats de transport de marchandises par route, avec des dispositions sp&#233;cifiques sur la nullit&#233; des clauses contraires</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="STIPULATIONS CONTRAIRES">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Clauses d'un contrat d&#233;rogeant aux dispositions de l'Acte uniforme, consid&#233;r&#233;es comme nulles</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="CONVERSION MON&#201;TAIRE">
+      <data key="d0">PROCESS</data>
+      <data key="d1">Processus de conversion des montants mentionn&#233;s dans l'Acte uniforme en monnaie nationale pour les &#201;tats hors zone CFA</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Contrats r&#233;gis par l'Acte uniforme, concernant le transport de marchandises par route</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="NULLIT&#201;">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">&#201;tat d'une clause ou d'un contrat qui est d&#233;clar&#233; invalide et sans effet l&#233;gal</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="CLAUSE">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Disposition contractuelle sp&#233;cifique pouvant &#234;tre annul&#233;e si elle d&#233;roge aux dispositions de l'Acte uniforme</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="TAUX DE CHANGE">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Valeur d'&#233;change d'une monnaie par rapport &#224; une autre, utilis&#233;e pour la conversion mon&#233;taire dans l'Acte uniforme</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="JOURNAL OFFICIEL">
+      <data key="d0">DOCUMENT</data>
+      <data key="d1">Publication officielle o&#249; sont annonc&#233;s les lois et actes administratifs, y compris l'Acte uniforme de l'OHADA</data>
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <node id="DOMMAGES ET INT&#201;R&#202;TS">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">17494ca31f27e71f223d8ff914126361</data>
+    </node>
+    <edge source="ACTE UNIFORME RELATIF AU DROIT DE L'ARBITRAGE" target="OHADA">
+      <data key="d3">18.0</data>
+      <data key="d4">L'acte a &#233;t&#233; adopt&#233; sous l'&#233;gide de l'OHADA pour harmoniser le droit de l'arbitrage
+L'OHADA est l'organisation sous l'&#233;gide de laquelle l'Acte a &#233;t&#233; adopt&#233;</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075,9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AU DROIT DE L'ARBITRAGE" target="CONSEIL DES MINISTRES">
+      <data key="d3">9.0</data>
+      <data key="d4">Le Conseil des ministres de l'OHADA a adopt&#233; l'acte uniforme</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AU DROIT DE L'ARBITRAGE" target="AVIS">
+      <data key="d3">9.0</data>
+      <data key="d4">L'avis de la Cour a pr&#233;c&#233;d&#233; l'adoption de l'acte uniforme</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AU DROIT DE L'ARBITRAGE" target="OUAGADOUGOU">
+      <data key="d3">20.0</data>
+      <data key="d4">L'acte uniforme a &#233;t&#233; adopt&#233; &#224; Ouagadougou
+L'Acte a &#233;t&#233; adopt&#233; &#224; Ouagadougou, Burkina Faso
+L'Acte Uniforme relatif au droit de l'arbitrage a &#233;t&#233; adopt&#233; &#224; Ouagadougou
+L'Acte a &#233;t&#233; adopt&#233; &#224; Ouagadougou, Burkina Faso</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e,587cdc3e0e096e6a9eca0f564bb6df05,6377b0463feb8217c36e3890d4c4c075,9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AU DROIT DE L'ARBITRAGE" target="ETATS-PARTIES">
+      <data key="d3">9.0</data>
+      <data key="d4">L'Acte r&#233;gule le droit de l'arbitrage dans les Etats-parties de l'OHADA</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="OHADA" target="TRAIT&#201;">
+      <data key="d3">9.0</data>
+      <data key="d4">Le trait&#233; est le document fondateur de l'OHADA et guide l'harmonisation du droit des affaires</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="OHADA" target="JURIDICTION &#201;TATIQUE">
+      <data key="d3">7.0</data>
+      <data key="d4">Les juridictions &#233;tatiques peuvent ordonner des mesures provisoires ou conservatoires en cas d'urgence, dans le cadre des r&#232;gles &#233;tablies par l'OHADA</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="OHADA" target="ETATS-PARTIES">
+      <data key="d3">1.0</data>
+      <data key="d4">Les Etats-parties sont membres de l'OHADA et sont r&#233;gis par ses actes uniformes</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="OHADA" target="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE">
+      <data key="d3">9.0</data>
+      <data key="d4">L'acte uniforme a &#233;t&#233; adopt&#233; sous l'&#233;gide de l'OHADA</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="OHADA" target="ACTE UNIFORME">
+      <data key="d3">9.0</data>
+      <data key="d4">L'OHADA est responsable de la publication de l'Acte uniforme</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="ETAT-PARTIE" target="TRIBUNAL ARBITRAL">
+      <data key="d3">9.0</data>
+      <data key="d4">Le si&#232;ge du tribunal arbitral doit se trouver dans un Etat-partie de l'OHADA</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="ETAT-PARTIE" target="JUGE COMP&#201;TENT">
+      <data key="d3">27.0</data>
+      <data key="d4">Le juge comp&#233;tent op&#232;re dans l'Etat-partie pour statuer sur la r&#233;cusation et la prorogation du d&#233;lai de la mission des arbitres
+Le juge comp&#233;tent op&#232;re dans la juridiction de l'Etat-partie
+Le juge comp&#233;tent op&#232;re dans la juridiction de l'Etat-partie</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e,587cdc3e0e096e6a9eca0f564bb6df05,df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="ETAT-PARTIE" target="JUGEMENT">
+      <data key="d3">9.0</data>
+      <data key="d4">Un jugement devient ex&#233;cutoire dans un Etat-partie et est reconnu dans les autres pays membres</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="ARBITRE">
+      <data key="d3">9.0</data>
+      <data key="d4">Les arbitres composent le tribunal arbitral charg&#233; de r&#233;soudre le litige</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="PARTIE">
+      <data key="d3">1.0</data>
+      <data key="d4">Les parties engagent le processus d'arbitrage en saisissant le Tribunal arbitral conform&#233;ment &#224; la convention d'arbitrage</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="CONVENTION D'ARBITRAGE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le Tribunal arbitral statue sur sa propre comp&#233;tence et sur l'existence ou la validit&#233; de la convention d'arbitrage</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="LITIGE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le litige est l'objet du diff&#233;rend r&#233;solu par le tribunal arbitral</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="MISSION">
+      <data key="d3">8.0</data>
+      <data key="d4">La mission fait &#233;galement r&#233;f&#233;rence &#224; la dur&#233;e et aux t&#226;ches assign&#233;es au tribunal arbitral</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="PARTIES">
+      <data key="d3">9.0</data>
+      <data key="d4">Le tribunal arbitral est charg&#233; de juger le litige entre les parties</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="JUGE COMP&#201;TENT">
+      <data key="d3">8.0</data>
+      <data key="d4">Le tribunal arbitral peut requ&#233;rir le concours du juge comp&#233;tent pour l'administration de la preuve</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="SENTENCE ARBITRALE">
+      <data key="d3">18.0</data>
+      <data key="d4">Le tribunal arbitral est responsable de rendre la sentence arbitrale
+La sentence arbitrale est rendue par le tribunal arbitral</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e,587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="LOI DE PROC&#201;DURE">
+      <data key="d3">8.0</data>
+      <data key="d4">Le tribunal arbitral peut proc&#233;der &#224; l'arbitrage selon la loi de proc&#233;dure choisie par les parties ou comme il le juge appropri&#233;</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="TRIBUNAL ARBITRAL" target="D&#201;LIB&#201;RATION">
+      <data key="d3">9.0</data>
+      <data key="d4">Le tribunal arbitral fixe la date &#224; laquelle l'affaire sera mise en d&#233;lib&#233;r&#233;</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="PERSONNE PHYSIQUE OU MORALE" target="CONVENTION D'ARBITRAGE">
+      <data key="d3">9.0</data>
+      <data key="d4">Les personnes physiques ou morales ont la capacit&#233; de conclure une convention d'arbitrage</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="CONVENTION D'ARBITRAGE" target="CONTRAT PRINCIPAL">
+      <data key="d3">9.0</data>
+      <data key="d4">La convention d'arbitrage est ind&#233;pendante du contrat principal mais li&#233;e &#224; lui par le litige</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="CONVENTION D'ARBITRAGE" target="ARBITRE">
+      <data key="d3">1.0</data>
+      <data key="d4">La nomination des arbitres est r&#233;gie par la convention d'arbitrage</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="CONVENTION D'ARBITRAGE" target="JURIDICTION &#201;TATIQUE">
+      <data key="d3">9.0</data>
+      <data key="d4">La pr&#233;sence d'une convention d'arbitrage oblige la juridiction &#233;tatique &#224; se d&#233;clarer incomp&#233;tente, sauf exceptions</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="CONVENTION D'ARBITRAGE" target="SENTENCE ARBITRALE">
+      <data key="d3">8.0</data>
+      <data key="d4">La validit&#233; de la sentence arbitrale peut d&#233;pendre de l'existence d'une convention d'arbitrage valide</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </edge>
+    <edge source="ARBITRE" target="JUGE COMP&#201;TENT">
+      <data key="d3">9.0</data>
+      <data key="d4">Le juge comp&#233;tent peut nommer un arbitre en cas de n&#233;cessit&#233;</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="ARBITRE" target="PARTIE">
+      <data key="d3">9.0</data>
+      <data key="d4">Les arbitres sont choisis par les parties pour r&#233;soudre un litige et doivent informer les parties en cas de cause de r&#233;cusation</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="ARBITRE" target="R&#201;CUSATION">
+      <data key="d3">9.0</data>
+      <data key="d4">La r&#233;cusation concerne la contestation de la nomination d'un arbitre pour des raisons sp&#233;cifiques</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="ARBITRE" target="MISSION">
+      <data key="d3">9.0</data>
+      <data key="d4">La mission fait r&#233;f&#233;rence &#224; la t&#226;che assign&#233;e &#224; l'arbitre, qui doit l'accepter pour proc&#233;der &#224; l'arbitrage</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="JUGE COMP&#201;TENT" target="PARTIE">
+      <data key="d3">8.0</data>
+      <data key="d4">Les parties peuvent s'adresser au juge comp&#233;tent si elles n'ont pas r&#233;gl&#233; la proc&#233;dure de r&#233;cusation d'un arbitre</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="JUGE COMP&#201;TENT" target="SENTENCE ARBITRALE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le juge comp&#233;tent peut statuer sur l'ex&#233;cution, l'annulation, et l'exequatur de la sentence arbitrale</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </edge>
+    <edge source="JUGE COMP&#201;TENT" target="RECOURS EN ANNULATION">
+      <data key="d3">9.0</data>
+      <data key="d4">Le juge comp&#233;tent traite les recours contre les d&#233;cisions d'exequatur et les sentences arbitrales</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="JUGE COMP&#201;TENT" target="TRADUCTEUR INSCRIT">
+      <data key="d3">7.0</data>
+      <data key="d4">Le traducteur inscrit peut &#234;tre requis par le juge comp&#233;tent pour la traduction de documents dans le cadre d'un recours</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="SEC&#201;TAIRE PERMANENT" target="RAPPORT">
+      <data key="d3">9.0</data>
+      <data key="d4">Le Secr&#233;taire permanent a contribu&#233; au rapport sur lequel se base l'acte uniforme</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="COUR COMMUNE DE JUSTICE ET D'ARBITRAGE" target="AVIS">
+      <data key="d3">9.0</data>
+      <data key="d4">La Cour a &#233;mis un avis concernant l'acte uniforme</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="COUR COMMUNE DE JUSTICE ET D'ARBITRAGE" target="RECOURS EN ANNULATION">
+      <data key="d3">1.0</data>
+      <data key="d4">La d&#233;cision sur le recours en annulation par le juge comp&#233;tent peut &#234;tre soumise &#224; un pourvoi en cassation devant la Cour Commune de Justice et d'Arbitrage</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </edge>
+    <edge source="COUR COMMUNE DE JUSTICE ET D'ARBITRAGE" target="EXEQUATUR">
+      <data key="d3">9.0</data>
+      <data key="d4">La Cour est comp&#233;tente pour les pourvois en cassation contre les d&#233;cisions refusant l'exequatur</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="COUR COMMUNE DE JUSTICE ET D'ARBITRAGE" target="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE">
+      <data key="d3">8.0</data>
+      <data key="d4">La Cour a fourni un avis concernant l'acte uniforme</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="RAPPORT" target="CONSEIL DES MINISTRES">
+      <data key="d3">9.0</data>
+      <data key="d4">Le rapport a &#233;t&#233; examin&#233; par le Conseil des ministres avant l'adoption de l'acte uniforme</data>
+      <data key="d5">9dd9fe1f162e62993366ced832ed67b9</data>
+    </edge>
+    <edge source="AVIS" target="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE">
+      <data key="d3">7.0</data>
+      <data key="d4">Les avis, oraux ou &#233;crits, sont r&#233;glement&#233;s par l'acte uniforme dans le contexte de communication d'informations</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="AVIS" target="TRANSPORTEUR">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur doit &#233;mettre un avis &#224; l'ayant droit ou &#224; l'exp&#233;diteur en cas de probl&#232;mes ou de modifications du transport</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="CONSEIL DES MINISTRES" target="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le Conseil des ministres de l'OHADA a adopt&#233; l'acte uniforme</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="PARTIE" target="R&#200;GLEMENT D'ARBITRAGE">
+      <data key="d3">8.0</data>
+      <data key="d4">Les parties s'engagent &#224; appliquer le r&#232;glement d'arbitrage lorsqu'elles recourent &#224; l'arbitrage</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="PARTIE" target="R&#201;CUSATION">
+      <data key="d3">9.0</data>
+      <data key="d4">Les parties ont le droit de soulever une r&#233;cusation contre un arbitre d&#233;sign&#233;</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="JURIDICTION &#201;TATIQUE" target="LITIGE">
+      <data key="d3">7.0</data>
+      <data key="d4">Un litige peut &#234;tre port&#233; devant une juridiction &#233;tatique si certaines conditions de la convention d'arbitrage le permettent</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="R&#200;GLEMENT D'ARBITRAGE" target="ORGANISME D'ARBITRAGE">
+      <data key="d3">10.0</data>
+      <data key="d4">L'organisme d'arbitrage &#233;tablit le r&#232;glement d'arbitrage qui doit &#234;tre suivi lors de la proc&#233;dureL'organisme d'arbitrage fournit le cadre r&#233;glementaire &#224; travers le r&#232;glement d'arbitrage</data>
+      <data key="d5">df06241b229ae8c1374c7b474f6c16a5</data>
+    </edge>
+    <edge source="PARTIES" target="ARBITRES">
+      <data key="d3">9.0</data>
+      <data key="d4">Les arbitres sont choisis pour juger le litige entre les parties</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="PARTIES" target="SENTENCE ARBITRALE">
+      <data key="d3">1.0</data>
+      <data key="d4">La sentence arbitrale r&#233;sout le litige entre les parties</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="PARTIES" target="PREUVE">
+      <data key="d3">9.0</data>
+      <data key="d4">Les parties ont la charge d'all&#233;guer et de prouver les faits</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="PARTIES" target="IRR&#201;GULARIT&#201;">
+      <data key="d3">7.0</data>
+      <data key="d4">Une partie qui s'abstient d'invoquer une irr&#233;gularit&#233; et poursuit l'arbitrage est r&#233;put&#233;e avoir renonc&#233; &#224; s'en pr&#233;valoir</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="ARBITRES" target="FAIT">
+      <data key="d3">8.0</data>
+      <data key="d4">Les arbitres peuvent inviter les parties &#224; fournir des explications de fait</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="ARBITRES" target="DOCUMENT">
+      <data key="d3">8.0</data>
+      <data key="d4">Les arbitres d&#233;cident quels documents ou preuves sont n&#233;cessaires &#224; la solution du litige</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="ARBITRES" target="V&#201;RIFICATION D'&#201;CRITURE">
+      <data key="d3">8.0</data>
+      <data key="d4">Les arbitres disposent du pouvoir de trancher tout incident de v&#233;rification d'&#233;criture ou de faux</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="SENTENCE ARBITRALE" target="MAJORIT&#201; DES VOIX">
+      <data key="d3">1.0</data>
+      <data key="d4">La sentence arbitrale est rendue &#224; la majorit&#233; des voix lorsque le tribunal est compos&#233; de trois arbitres</data>
+      <data key="d5">587cdc3e0e096e6a9eca0f564bb6df05</data>
+    </edge>
+    <edge source="SENTENCE ARBITRALE" target="RECOURS EN ANNULATION">
+      <data key="d3">18.0</data>
+      <data key="d4">Le recours en annulation est une proc&#233;dure l&#233;gale visant &#224; contester la sentence arbitrale
+Le recours en annulation permet de contester la validit&#233; d'une sentence arbitrale</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e,6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="SENTENCE ARBITRALE" target="EX&#201;CUTION PROVISOIRE">
+      <data key="d3">9.0</data>
+      <data key="d4">L'ex&#233;cution provisoire peut &#234;tre accord&#233;e ou refus&#233;e pour une sentence arbitrale</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </edge>
+    <edge source="SENTENCE ARBITRALE" target="RECOURS EN R&#201;VISION">
+      <data key="d3">9.0</data>
+      <data key="d4">Le recours en r&#233;vision permet de demander la r&#233;vision de la sentence arbitrale en cas de d&#233;couverte de faits nouveaux</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </edge>
+    <edge source="SENTENCE ARBITRALE" target="TIERCE OPPOSITION">
+      <data key="d3">9.0</data>
+      <data key="d4">La tierce opposition permet &#224; des tiers de contester la sentence arbitrale</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </edge>
+    <edge source="SENTENCE ARBITRALE" target="EXEQUATUR">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exequatur permet la reconnaissance et l'ex&#233;cution d'une sentence arbitrale</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="SENTENCE ARBITRALE" target="ETATS-PARTIES">
+      <data key="d3">9.0</data>
+      <data key="d4">Les sentences arbitrales sont reconnues et ex&#233;cut&#233;es dans les Etats-parties conform&#233;ment &#224; l'Acte Uniforme</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="SENTENCE ARBITRALE" target="REGLE D'ORDRE PUBLIC INTERNATIONAL">
+      <data key="d3">9.0</data>
+      <data key="d4">Une sentence arbitrale peut &#234;tre refus&#233;e si elle est contraire &#224; une r&#232;gle d'ordre public international</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="SENTENCE ARBITRALE" target="CONVENTIONS INTERNATIONALES">
+      <data key="d3">1.0</data>
+      <data key="d4">Les sentences arbitrales sont reconnues selon les conventions internationales en l'absence de dispositions de l'Acte Uniforme</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="RECOURS EN ANNULATION" target="PRINCIPE DU CONTRADICTOIRE">
+      <data key="d3">8.0</data>
+      <data key="d4">Le non-respect du principe du contradictoire peut &#234;tre un motif de recours en annulation de la sentence arbitrale</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </edge>
+    <edge source="RECOURS EN ANNULATION" target="R&#200;GLE D'ORDRE PUBLIC INTERNATIONAL">
+      <data key="d3">8.0</data>
+      <data key="d4">La violation d'une r&#232;gle d'ordre public international peut &#234;tre un motif de recours en annulation de la sentence arbitrale</data>
+      <data key="d5">3250669a7ff7e0de8bf2cfcbfcc89c2e</data>
+    </edge>
+    <edge source="RECOURS EN ANNULATION" target="VALIDIT&#201; DE LA SENTENCE ARBITRALE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le rejet du recours en annulation confirme la validit&#233; de la sentence arbitrale</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="EXEQUATUR" target="POURVOI EN CASSATION">
+      <data key="d3">9.0</data>
+      <data key="d4">La d&#233;cision qui refuse l'exequatur est susceptible de pourvoi en cassation</data>
+      <data key="d5">6377b0463feb8217c36e3890d4c4c075</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE" target="ETAT MEMBRE DE L'OHADA">
+      <data key="d3">9.0</data>
+      <data key="d4">L'acte uniforme s'applique sur le territoire des &#201;tats membres de l'OHADA</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE" target="MARCHANDISE DANGEREUSE">
+      <data key="d3">1.0</data>
+      <data key="d4">Les marchandises dangereuses sont exclues de l'application de l'acte uniforme</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE" target="&#201;CRIT">
+      <data key="d3">9.0</data>
+      <data key="d4">Les &#233;crits, sous forme de lettres, caract&#232;res, chiffres ou autres signes, sont utilis&#233;s pour documenter les transactions et contrats</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE" target="TRANSPORT DE D&#201;M&#201;NAGEMENT">
+      <data key="d3">8.0</data>
+      <data key="d4">Le transport de d&#233;m&#233;nagement est sp&#233;cifiquement exclu de l'application de l'acte uniforme</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE" target="TRANSPORT FUN&#201;RAIRE">
+      <data key="d3">8.0</data>
+      <data key="d4">Le transport fun&#233;raire est exclu de l'application de l'acte uniforme</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE" target="YAOUND&#201;">
+      <data key="d3">13.0</data>
+      <data key="d4">L'Acte a &#233;t&#233; adopt&#233; &#224; Yaound&#233;, Cameroun
+L'Acte a &#233;t&#233; adopt&#233; &#224; Yaound&#233;, Cameroun
+L'Acte a &#233;t&#233; adopt&#233; &#224; Yaound&#233;, Cameroun
+L'Acte a &#233;t&#233; adopt&#233; &#224; Yaound&#233;, Cameroun
+L'Acte a &#233;t&#233; adopt&#233; &#224; Yaound&#233;, Cameroun</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914,621a8bcde98b24680cece1ad771ba5d6,ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE" target="CONTRAT DE TRANSPORT">
+      <data key="d3">10.0</data>
+      <data key="d4">L'Acte Uniforme fournit le cadre l&#233;gal r&#233;gissant les contrats de transport de marchandises par route
+L'Acte Uniforme r&#233;gule les conditions et les obligations des parties dans un contrat de transport de marchandises par route</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1,c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE" target="TRANSPORTEUR">
+      <data key="d3">1.0</data>
+      <data key="d4">Le transporteur est r&#233;gul&#233; par cet acte l&#233;gal en ce qui concerne ses responsabilit&#233;s et exon&#233;rations</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="CONTRAT DE TRANSPORT DE MARCHANDISES" target="TRANSPORTEUR">
+      <data key="d3">9.0</data>
+      <data key="d4">Le contrat de transport engage le transporteur &#224; d&#233;placer des marchandises</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="CONTRAT DE TRANSPORT DE MARCHANDISES" target="EXPEDITEUR">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur est la partie qui remet les marchandises pour le transport selon le contrat</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="CONTRAT DE TRANSPORT DE MARCHANDISES" target="MARCHANDISE">
+      <data key="d3">9.0</data>
+      <data key="d4">Les marchandises sont l'objet du contrat de transport</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="CONTRAT DE TRANSPORT DE MARCHANDISES" target="LETTRE DE VOITURE">
+      <data key="d3">9.0</data>
+      <data key="d4">La lettre de voiture constate et formalise le contrat de transport</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="CONTRAT DE TRANSPORT DE MARCHANDISES" target="TRANSPORT SUCCESSIF">
+      <data key="d3">8.0</data>
+      <data key="d4">Le transport successif implique l'ex&#233;cution d'un unique contrat de transport par plusieurs transporteurs routiers</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="CONTRAT DE TRANSPORT DE MARCHANDISES" target="TRANSPORT SUPERPOS&#201;">
+      <data key="d3">1.0</data>
+      <data key="d4">Le transport superpos&#233; concerne l'ex&#233;cution d'un unique contrat de transport o&#249; un v&#233;hicule routier est lui-m&#234;me transport&#233;</data>
+      <data key="d5">76cdac3f16f7950e0556c5e24b55dba1</data>
+    </edge>
+    <edge source="MARCHANDISE" target="TRANSPORTEUR">
+      <data key="d3">54.0</data>
+      <data key="d4">Le transporteur est charg&#233; d'acheminer la marchandise
+Le transporteur est responsable du transport de la marchandise jusqu'&#224; sa livraison au destinataire
+Le transporteur a un privil&#232;ge sur la marchandise pour les sommes dues, li&#233;es au transport
+Le transporteur est responsable de la protection des marchandises contre les conditions nuisibles pendant le transport
+Le transporteur est responsable du transport de la marchandise, incluant les risques de pertes, avaries ou retards
+Le transporteur est responsable du transport de la marchandise</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914,5137ff575f117d29edce34015cf7b7da,8efd8b09d7df42d7b6a0a29cf1db01f1,ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="MARCHANDISE" target="LETTRE DE VOITURE">
+      <data key="d3">9.0</data>
+      <data key="d4">La lettre de voiture contient des d&#233;tails sp&#233;cifiques sur la marchandise transport&#233;e</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4</data>
+    </edge>
+    <edge source="MARCHANDISE" target="DOCUMENTS DE DOUANE">
+      <data key="d3">9.0</data>
+      <data key="d4">Les documents de douane incluent des informations sur la marchandise pour les formalit&#233;s douani&#232;res</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4</data>
+    </edge>
+    <edge source="MARCHANDISE" target="EMBALLAGE">
+      <data key="d3">9.0</data>
+      <data key="d4">L'emballage est utilis&#233; pour prot&#233;ger la marchandise durant le transport</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="MARCHANDISE" target="DESTINATAIRE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le destinataire est la personne ou l'entit&#233; destin&#233;e &#224; recevoir la marchandise transport&#233;e</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="MARCHANDISE" target="AYANT DROIT">
+      <data key="d3">9.0</data>
+      <data key="d4">L'ayant droit &#224; la marchandise a le pouvoir de donner des instructions concernant son transport</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="MARCHANDISE" target="CONTRAT DE TRANSPORT">
+      <data key="d3">17.0</data>
+      <data key="d4">Le contrat de transport sp&#233;cifie les conditions de livraison et de traitement de la marchandise
+La marchandise est l'objet central du contrat de transport</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="MARCHANDISE" target="PERTES OU AVARIES">
+      <data key="d3">9.0</data>
+      <data key="d4">Les pertes ou avaries concernent les dommages ou manques subis par la marchandise pendant le transport</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="MARCHANDISE" target="EXP&#201;DITEUR">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur est l'entit&#233; qui envoie la marchandise, initiant ainsi le processus de transport</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="MARCHANDISE" target="VALEUR DE LA MARCHANDISE">
+      <data key="d3">9.0</data>
+      <data key="d4">La valeur de la marchandise est calcul&#233;e pour d&#233;terminer l'indemnit&#233; en cas de dommage</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="MARCHANDISE DANGEREUSE" target="EXP&#201;DITEUR">
+      <data key="d3">10.0</data>
+      <data key="d4">L'exp&#233;diteur est responsable des pr&#233;judices li&#233;s au transport de marchandise dangereuse sans notification pr&#233;alable
+L'exp&#233;diteur est responsable de d&#233;clarer la nature exacte des marchandises dangereuses</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="MARCHANDISE DANGEREUSE" target="TRANSPORTEUR">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur peut refuser, d&#233;charger, d&#233;truire ou rendre inoffensives les marchandises dangereuses non d&#233;clar&#233;es</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="TRANSPORT FUN&#201;RAIRE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est responsable de l'ex&#233;cution du transport fun&#233;raire</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="TRANSPORT SUCCESSIF">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur peut &#234;tre l'un des multiples intervenants dans un transport successif
+Dans un transport successif, la responsabilit&#233; peut &#234;tre attribu&#233;e au premier, au dernier ou au transporteur lors du dommage</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="TRANSPORT SUPERPOS&#201;">
+      <data key="d3">17.0</data>
+      <data key="d4">Le transporteur r&#233;alise le transport superpos&#233; en transportant un v&#233;hicule routier sur ou dans un v&#233;hicule non routier
+La responsabilit&#233; du transporteur dans un transport superpos&#233; est d&#233;finie par l'Acte uniforme et peut varier selon le mode de transport</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4,2bffff2bfd8dc66408384937c8084914</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="CONTRAT DE TRANSPORT">
+      <data key="d3">27.0</data>
+      <data key="d4">Le transporteur est l'une des parties prenantes du contrat de transport
+Le contrat de transport d&#233;finit les obligations du transporteur envers l'exp&#233;diteur et le destinataire
+Le transporteur est une des parties prenantes du contrat de transport</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4,c045b3f78c3dd73695f12f7e7857ce41,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="LETTRE DE VOITURE">
+      <data key="d3">26.0</data>
+      <data key="d4">Le transporteur est mentionn&#233; dans la lettre de voiture comme responsable du transport
+La lettre de voiture contenant les instructions pour le transporteur accompagne la marchandise
+Le transporteur peut exiger la pr&#233;sentation de l'original de la lettre de voiture pour ex&#233;cuter les instructions</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4,621a8bcde98b24680cece1ad771ba5d6,c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="EXP&#201;DITEUR">
+      <data key="d3">27.0</data>
+      <data key="d4">L'exp&#233;diteur fournit au transporteur les documents et renseignements utiles pour le transport
+L'exp&#233;diteur remet la marchandise au transporteur pour le transport
+L'exp&#233;diteur donne des instructions au transporteur concernant le transport des marchandises</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6,c045b3f78c3dd73695f12f7e7857ce41,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="DOCUMENTS">
+      <data key="d3">9.0</data>
+      <data key="d4">Les documents sont fournis par l'exp&#233;diteur au transporteur pour faciliter le transport</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="MANDATAIRE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur agit comme un mandataire en ce qui concerne la gestion des documents de transport</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="PERTE DE LA MARCHANDISE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est responsable des cons&#233;quences de la perte de la marchandise</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="INDEMNIT&#201;">
+      <data key="d3">18.0</data>
+      <data key="d4">Le transporteur doit une indemnit&#233; en cas de perte ou d'utilisation inexacte des documents ou de la marchandise
+Le transporteur n'est pas oblig&#233; de payer une indemnit&#233; pour les marchandises dangereuses non d&#233;clar&#233;es</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="S&#201;CURIT&#201;">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur doit assurer la s&#233;curit&#233; des personnes et des marchandises durant le transport</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="BRIS D'EMBALLAGE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur prend des mesures en cas de bris d'emballage pour prot&#233;ger la marchandise</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="GARDE DE LA MARCHANDISE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur assume la garde de la marchandise apr&#232;s un incident</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="PR&#201;JUDICE">
+      <data key="d3">16.0</data>
+      <data key="d4">Le transporteur n'est pas responsable du pr&#233;judice subi en raison du transport de marchandises non correctement d&#233;clar&#233;es
+Le transporteur peut subir un pr&#233;judice en ex&#233;cutant les instructions ou en cas de non-respect de ces derni&#232;res</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="DUR&#201;E DE TRANSPORT">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est responsable de la marchandise pendant la dur&#233;e de transport</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="V&#201;RIFICATION">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est tenu de v&#233;rifier les informations de la marchandise &#224; la prise en charge</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="R&#201;SERVES">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur inscrit des r&#233;serves sur la lettre de voiture en cas de doute sur l'&#233;tat ou les informations de la marchandise</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="INSTRUCTIONS">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur doit suivre les instructions donn&#233;es pour le transport de marchandises</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="CONSERVATION">
+      <data key="d3">8.0</data>
+      <data key="d4">Le transporteur assume la responsabilit&#233; de la conservation de la marchandise apr&#232;s le transport</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="ENTREPOSAGE">
+      <data key="d3">8.0</data>
+      <data key="d4">Le transporteur peut effectuer ou organiser l'entreposage de la marchandise</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="TIERS">
+      <data key="d3">7.0</data>
+      <data key="d4">Le transporteur peut confier la marchandise &#224; un tiers pour son entreposage</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="VENTE DE LA MARCHANDISE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur a le droit de vendre la marchandise dans certaines conditions sp&#233;cifiques</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="DESTINATAIRE">
+      <data key="d3">18.0</data>
+      <data key="d4">Le transporteur doit aviser le destinataire de l'arriv&#233;e de la marchandise et des conditions de son enl&#232;vement
+Le transporteur doit r&#233;clamer le paiement au destinataire avant la livraison, sinon il perd son droit de r&#233;clamation</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da,8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="CONSTATATION COMMUNE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur et le destinataire peuvent r&#233;aliser une constatation commune sur l'&#233;tat de la marchandise</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="DONNEUR D'ORDRE">
+      <data key="d3">10.0</data>
+      <data key="d4">Le transporteur peut r&#233;clamer le paiement des cr&#233;ances au donneur d'ordre si le destinataire refuse de payer
+En cas de refus de paiement par le destinataire, le transporteur doit demander des instructions au donneur d'ordre</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da,8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="RESPONSABILIT&#201; DU TRANSPORTEUR">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est tenu de livrer la marchandise sans avarie, perte ou retard, sous peine de responsabilit&#233;</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="AVARIE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est responsable des avaries survenues pendant le transport</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="PERTE TOTALE OU PARTIELLE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est responsable en cas de perte totale ou partielle de la marchandise</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="RETARD &#192; LA LIVRAISON">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est responsable en cas de retard &#224; la livraison de la marchandise</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="EXON&#201;RATION DE RESPONSABILIT&#201;">
+      <data key="d3">18.0</data>
+      <data key="d4">Des conditions sous lesquelles le transporteur peut &#234;tre exon&#233;r&#233; de responsabilit&#233; pour perte, avarie, ou retard
+Le transporteur peut se pr&#233;valoir des exon&#233;rations de responsabilit&#233; pr&#233;vues par l'Acte uniforme</data>
+      <data key="d5">2bffff2bfd8dc66408384937c8084914,5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="PRIVIL&#200;GE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur d&#233;tient un privil&#232;ge sur la marchandise pour garantir le paiement des sommes dues</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="D&#201;LAI DE LIVRAISON">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est responsable de respecter le d&#233;lai de livraison convenu pour la marchandise</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="FAUTE DE L'AYANT DROIT">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur peut &#234;tre exon&#233;r&#233; de responsabilit&#233; si la perte, l'avarie ou le retard est d&#251; &#224; la faute de l'ayant droit</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="VICE PROPRE DE LA MARCHANDISE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur peut &#234;tre exon&#233;r&#233; de responsabilit&#233; si le vice propre de la marchandise contribue &#224; sa perte ou avarie</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="CIRCONSTANCES IN&#201;VITABLES">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur peut &#234;tre exon&#233;r&#233; de responsabilit&#233; si affect&#233; par des circonstances in&#233;vitables</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="RISQUES PARTICULIERS">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur peut &#234;tre exon&#233;r&#233; de responsabilit&#233; si la perte ou l'avarie r&#233;sulte de risques particuliers</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="V&#201;HICULE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur utilise un v&#233;hicule pour effectuer le transport de marchandises</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="PR&#201;POS&#201;S OU MANDATAIRES">
+      <data key="d3">1.0</data>
+      <data key="d4">Le transporteur est responsable des actes de ses pr&#233;pos&#233;s ou mandataires dans l'ex&#233;cution du contrat de transport</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="DOMMAGE">
+      <data key="d3">9.0</data>
+      <data key="d4">La responsabilit&#233; du transporteur est engag&#233;e en cas de dommage caus&#233; &#224; la marchandise, sous certaines conditions</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="V&#201;HICULE AM&#201;NAG&#201;">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur est responsable de l'emploi et de l'entretien des v&#233;hicules am&#233;nag&#233;s pour le transport</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="EXON&#201;RATION">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur peut invoquer l'exon&#233;ration sous conditions sp&#233;cifiques, comme le respect des instructions sp&#233;ciales</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="INSTRUCTIONS SP&#201;CIALES">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur doit suivre les instructions sp&#233;ciales pour b&#233;n&#233;ficier de l'exon&#233;ration</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="FACTEURS DE DOMMAGE">
+      <data key="d3">9.0</data>
+      <data key="d4">La responsabilit&#233; du transporteur est &#233;valu&#233;e en fonction des facteurs de dommage dont il est responsable</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="RESPONSABILIT&#201; EXTRA-CONTRACTUELLE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur peut &#234;tre tenu responsable de dommages dans le cadre de la responsabilit&#233; extra-contractuelle selon l'Acte uniforme</data>
+      <data key="d5">2bffff2bfd8dc66408384937c8084914</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="LIMITATION DE RESPONSABILIT&#201;">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur b&#233;n&#233;ficie de limitations de responsabilit&#233; en cas de dommage, perte ou retard selon l'Acte uniforme</data>
+      <data key="d5">2bffff2bfd8dc66408384937c8084914</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="PRESCRIPTION">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur n'est pas admis au b&#233;n&#233;fice de la prescription si la perte ou le dommage r&#233;sulte d'un acte intentionnel ou t&#233;m&#233;raire</data>
+      <data key="d5">2bffff2bfd8dc66408384937c8084914</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="TRANSPORT ROUTIER">
+      <data key="d3">1.0</data>
+      <data key="d4">Le transporteur routier est responsable du transport de marchandises par route, avec des responsabilit&#233;s sp&#233;cifi&#233;es par l'Acte uniforme</data>
+      <data key="d5">2bffff2bfd8dc66408384937c8084914</data>
+    </edge>
+    <edge source="TRANSPORTEUR" target="RECOURS">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur a le droit d'exercer un recours pour r&#233;cup&#233;rer l'indemnit&#233; pay&#233;e</data>
+      <data key="d5">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="LETTRE DE VOITURE" target="CONTRAT DE TRANSPORT">
+      <data key="d3">9.0</data>
+      <data key="d4">La lettre de voiture sert de preuve des conditions du contrat de transport</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4</data>
+    </edge>
+    <edge source="LETTRE DE VOITURE" target="EXP&#201;DITEUR">
+      <data key="d3">36.0</data>
+      <data key="d4">L'exp&#233;diteur est mentionn&#233; dans la lettre de voiture comme la partie qui envoie la marchandise
+L'exp&#233;diteur doit joindre &#224; la lettre de voiture les documents n&#233;cessaires pour le transport
+L'exp&#233;diteur doit s'assurer que les informations sur la marchandise sont correctement inscrites sur la lettre de voiture
+L'exp&#233;diteur est impliqu&#233; dans le processus qui m&#232;ne &#224; l'&#233;mission de la lettre de voiture par le transporteur &#233;metteur</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4,621a8bcde98b24680cece1ad771ba5d6,e5545ffc2d2770c13bb5f00c9552d741,f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="LETTRE DE VOITURE" target="DOCUMENTS DE DOUANE">
+      <data key="d3">1.0</data>
+      <data key="d4">La lettre de voiture peut accompagner ou inclure les documents de douane n&#233;cessaires</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4</data>
+    </edge>
+    <edge source="LETTRE DE VOITURE" target="DROIT DE DISPOSITION">
+      <data key="d3">1.0</data>
+      <data key="d4">Les nouvelles instructions donn&#233;es au transporteur doivent &#234;tre inscrites sur l'original de la lettre de voiture</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="LETTRE DE VOITURE" target="LIVRAISON">
+      <data key="d3">9.0</data>
+      <data key="d4">La lettre de voiture est remise au destinataire lors de la livraison de la marchandise</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="LETTRE DE VOITURE" target="DESTINATAIRE">
+      <data key="d3">18.0</data>
+      <data key="d4">Le destinataire doit payer les cr&#233;ances r&#233;sultant de la lettre de voiture avant de prendre livraison de la marchandise
+La lettre de voiture stipule les obligations financi&#232;res du destinataire envers le transporteur</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da,8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="LETTRE DE VOITURE" target="DONNEUR D'ORDRE">
+      <data key="d3">9.0</data>
+      <data key="d4">Les cr&#233;ances r&#233;sultant de la lettre de voiture sont payables par le donneur d'ordre avant la livraison</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="LETTRE DE VOITURE" target="TRANSPORT SUCCESSIF">
+      <data key="d3">9.0</data>
+      <data key="d4">Dans un transport successif, chaque transporteur acceptant la marchandise et la lettre de voiture devient partie au contrat</data>
+      <data key="d5">2bffff2bfd8dc66408384937c8084914</data>
+    </edge>
+    <edge source="LETTRE DE VOITURE" target="TRANSPORTEUR &#201;METTEUR">
+      <data key="d3">9.0</data>
+      <data key="d4">Le transporteur &#233;metteur est responsable de l'&#233;mission de la lettre de voiture</data>
+      <data key="d5">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="CONTRAT DE TRANSPORT" target="DESTINATAIRE">
+      <data key="d3">9.0</data>
+      <data key="d4">Par acceptation de la marchandise ou du contrat, le destinataire acquiert les droits r&#233;sultant du contrat de transport</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="CONTRAT DE TRANSPORT" target="DONNEUR D'ORDRE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le donneur d'ordre &#233;tablit un contrat de transport avec le transporteur pour la livraison de marchandise</data>
+      <data key="d5">5137ff575f117d29edce34015cf7b7da</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="DOCUMENTS DE DOUANE">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur doit fournir les documents de douane n&#233;cessaires pour le transport</data>
+      <data key="d5">0c4d237251bb238dda537233b9f16cf4</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="DOMMAGES">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur est responsable des dommages r&#233;sultant de l'insuffisance ou de l'irr&#233;gularit&#233; des documents fournis</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="INFORMATIONS UTILES">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur doit fournir toutes les informations utiles au transporteur pour le transport</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="RESPONSABILIT&#201;">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur est responsable des dommages li&#233;s &#224; l'insuffisance ou &#224; l'irr&#233;gularit&#233; des documents et informations</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="D&#201;FECTUOSIT&#201; DE L'EMBALLAGE">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur est responsable des dommages caus&#233;s par la d&#233;fectuosit&#233; de l'emballage</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="DOCUMENTS, ESP&#200;CES OU MARCHANDISES DE GRANDE VALEUR">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur est responsable de d&#233;clarer la nature et la valeur de ces objets avant le transport</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="DROIT DE DISPOSITION">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur a initialement le droit de disposer de la marchandise en cours de route</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="FRAIS D'ENTREPOSAGE">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur doit acquitter les frais d'entreposage pour les marchandises dangereuses non d&#233;clar&#233;es</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="RISQUES">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur assume les risques li&#233;s au transport de marchandises dangereuses non d&#233;clar&#233;es</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="PAIEMENT DES FRAIS DE V&#201;RIFICATION">
+      <data key="d3">1.0</data>
+      <data key="d4">L'exp&#233;diteur peut &#234;tre requis de payer les frais de v&#233;rification demand&#233;e par le transporteur</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="INDEMNIT&#201;">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur peut augmenter le montant de l'indemnit&#233; par une d&#233;claration de valeur ou d'int&#233;r&#234;t sp&#233;cial</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="D&#201;CLARATION DE VALEUR">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur peut influencer l'indemnit&#233; par une d&#233;claration de valeur de la marchandise</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="EXP&#201;DITEUR" target="INT&#201;R&#202;T SP&#201;CIAL &#192; LA LIVRAISON">
+      <data key="d3">9.0</data>
+      <data key="d4">L'exp&#233;diteur peut d&#233;clarer un int&#233;r&#234;t sp&#233;cial &#224; la livraison pour augmenter l'indemnit&#233;</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="DESTINATAIRE" target="DROIT DE DISPOSITION">
+      <data key="d3">9.0</data>
+      <data key="d4">Le droit de disposition peut appartenir au destinataire si cela est indiqu&#233; dans la lettre de voiture</data>
+      <data key="d5">f69e83cfb399a6807fd2efcb0e4e89ad</data>
+    </edge>
+    <edge source="DESTINATAIRE" target="AVIS D'ARRIV&#201;E">
+      <data key="d3">1.0</data>
+      <data key="d4">L'avis d'arriv&#233;e est adress&#233; au destinataire pour l'informer de l'arriv&#233;e de la marchandise et des conditions de son enl&#232;vement</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="DESTINATAIRE" target="CAUTION">
+      <data key="d3">9.0</data>
+      <data key="d4">Le destinataire doit fournir une caution au transporteur en cas de contestation sur le paiement des cr&#233;ances</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="DESTINATAIRE" target="AVIS &#201;CRIT">
+      <data key="d3">9.0</data>
+      <data key="d4">Le destinataire doit adresser un avis &#233;crit au transporteur en cas de pertes ou avaries</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="YAOUND&#201;" target="ACTE UNIFORME">
+      <data key="d3">1.0</data>
+      <data key="d4">L'Acte uniforme a &#233;t&#233; sign&#233; &#224; Yaound&#233;</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="RESPONSABILIT&#201;" target="INDEMNIT&#201;">
+      <data key="d3">9.0</data>
+      <data key="d4">L'indemnit&#233; est li&#233;e &#224; la responsabilit&#233; des transporteurs en cas de dommage</data>
+      <data key="d5">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="INDEMNIT&#201;" target="DOMMAGE">
+      <data key="d3">18.0</data>
+      <data key="d4">Un dommage &#224; la marchandise peut donner lieu &#224; une indemnit&#233; calcul&#233;e selon des crit&#232;res sp&#233;cifiques
+Un dommage peut entra&#238;ner le paiement d'une indemnit&#233;</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b,e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="INDEMNIT&#201;" target="FRANCS CFA">
+      <data key="d3">9.0</data>
+      <data key="d4">L'indemnit&#233; pour dommage ou perte est calcul&#233;e en Francs CFA</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="INDEMNIT&#201;" target="AYANT DROIT">
+      <data key="d3">9.0</data>
+      <data key="d4">L'ayant droit a le droit de r&#233;clamer une indemnit&#233; en cas de dommage ou de retard</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="INDEMNIT&#201;" target="D&#201;PR&#201;CIATION">
+      <data key="d3">9.0</data>
+      <data key="d4">L'indemnit&#233; pour avarie est calcul&#233;e sur la base de la d&#233;pr&#233;ciation de la marchandise</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="INDEMNIT&#201;" target="INT&#201;R&#202;TS DE L'IND&#201;MNIT&#201;">
+      <data key="d3">9.0</data>
+      <data key="d4">Les int&#233;r&#234;ts de l'indemnit&#233; sont dus &#224; partir de la date de la r&#233;clamation ou de la demande en justice</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="GARDE DE LA MARCHANDISE" target="CR&#201;ANCES">
+      <data key="d3">9.0</data>
+      <data key="d4">La marchandise sous la garde du transporteur reste grev&#233;e des cr&#233;ances r&#233;sultant de la lettre de voiture</data>
+      <data key="d5">621a8bcde98b24680cece1ad771ba5d6</data>
+    </edge>
+    <edge source="INSTRUCTIONS" target="FRAIS">
+      <data key="d3">8.0</data>
+      <data key="d4">L'ex&#233;cution des instructions peut engendrer des frais pour lesquels le transporteur peut demander un d&#233;dommagement</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="CONSERVATION" target="R&#201;MUN&#201;RATION">
+      <data key="d3">8.0</data>
+      <data key="d4">La conservation ou l'entreposage de la marchandise peut donner lieu &#224; une r&#233;mun&#233;ration pour le transporteur</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="VENTE DE LA MARCHANDISE" target="LOI">
+      <data key="d3">8.0</data>
+      <data key="d4">La proc&#233;dure de vente de la marchandise par le transporteur est d&#233;termin&#233;e par la loi</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="VENTE DE LA MARCHANDISE" target="USAGES">
+      <data key="d3">1.0</data>
+      <data key="d4">La proc&#233;dure de vente de la marchandise par le transporteur peut &#234;tre influenc&#233;e par les usages locaux</data>
+      <data key="d5">c045b3f78c3dd73695f12f7e7857ce41</data>
+    </edge>
+    <edge source="PERTES OU AVARIES" target="IND&#201;MNISATION">
+      <data key="d3">9.0</data>
+      <data key="d4">L'indemnisation est le processus de compensation pour les pertes ou avaries subies par la marchandise</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="CONSTATATION COMMUNE" target="AVIS &#201;CRIT">
+      <data key="d3">9.0</data>
+      <data key="d4">La preuve contraire au r&#233;sultat de la constatation commune ne peut &#234;tre apport&#233;e que par un avis &#233;crit en cas de pertes ou avaries non apparentes</data>
+      <data key="d5">8efd8b09d7df42d7b6a0a29cf1db01f1</data>
+    </edge>
+    <edge source="DOMMAGE" target="PROPORTION">
+      <data key="d3">9.0</data>
+      <data key="d4">La proportion de responsabilit&#233; du transporteur dans le dommage est d&#233;termin&#233;e par sa contribution aux facteurs de dommage</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="DOMMAGE" target="ACTION EN JUSTICE">
+      <data key="d3">9.0</data>
+      <data key="d4">Un dommage peut &#234;tre l'objet d'une action en justice contre le transporteur</data>
+      <data key="d5">2bffff2bfd8dc66408384937c8084914</data>
+    </edge>
+    <edge source="DOMMAGE" target="TRANSPORTEURS SUCCESSIFS">
+      <data key="d3">9.0</data>
+      <data key="d4">Les transporteurs successifs peuvent &#234;tre responsables des dommages survenus pendant le transport</data>
+      <data key="d5">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="FRANCS CFA" target="TRANSPORT INTER-&#201;TATS">
+      <data key="d3">10.0</data>
+      <data key="d4">Pour le transport inter-&#201;tats, la conversion pour le calcul de l'indemnit&#233; se fait en Francs CFA
+La conversion des indemnit&#233;s en cas de dommage ou retard dans le transport inter-&#201;tats se fait en francs CFA</data>
+      <data key="d5">2bffff2bfd8dc66408384937c8084914,ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="VALEUR DE LA MARCHANDISE" target="PRIX DU TRANSPORT">
+      <data key="d3">9.0</data>
+      <data key="d4">Le prix du transport est inclus dans le calcul de la valeur de la marchandise pour l'indemnit&#233;</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="VALEUR DE LA MARCHANDISE" target="DROITS DE DOUANE">
+      <data key="d3">9.0</data>
+      <data key="d4">Les droits de douane sont inclus dans le calcul de la valeur de la marchandise pour l'indemnit&#233;</data>
+      <data key="d5">ce0d0278bf980e7dcf4b95ae3d966a6b</data>
+    </edge>
+    <edge source="PRESCRIPTION" target="D&#201;LAI DE R&#201;CLAMATION">
+      <data key="d3">8.0</data>
+      <data key="d4">Le d&#233;lai de r&#233;clamation est li&#233; &#224; la p&#233;riode de prescription pour intenter une action l&#233;gale</data>
+      <data key="d5">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="TRANSPORTEURS SUCCESSIFS" target="R&#201;MUN&#201;RATION DU TRANSPORT">
+      <data key="d3">9.0</data>
+      <data key="d4">Les transporteurs successifs re&#231;oivent une r&#233;mun&#233;ration pour leur part du transport</data>
+      <data key="d5">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="ARBITRAGE" target="JURIDICTION COMP&#201;TENTE">
+      <data key="d3">1.0</data>
+      <data key="d4">L'arbitrage est une alternative &#224; la r&#233;solution de litiges par la juridiction comp&#233;tente</data>
+      <data key="d5">e5545ffc2d2770c13bb5f00c9552d741</data>
+    </edge>
+    <edge source="JUGEMENT" target="FORMALIT&#201;S">
+      <data key="d3">8.0</data>
+      <data key="d4">Des formalit&#233;s sont requises pour qu'un jugement soit reconnu dans un autre Etat-partie</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="JUGEMENT" target="DOMMAGES ET INT&#201;R&#202;TS">
+      <data key="d3">7.0</data>
+      <data key="d4">Les dommages et int&#233;r&#234;ts peuvent &#234;tre prononc&#233;s par un jugement en cas de rejet de demande</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="ACTE UNIFORME" target="STIPULATIONS CONTRAIRES">
+      <data key="d3">9.0</data>
+      <data key="d4">L'Acte uniforme rend nulles les stipulations contraires &#224; ses dispositions</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="ACTE UNIFORME" target="CONVERSION MON&#201;TAIRE">
+      <data key="d3">8.0</data>
+      <data key="d4">Le processus de conversion mon&#233;taire est d&#233;fini dans l'Acte uniforme pour les &#201;tats hors zone CFA</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="ACTE UNIFORME" target="CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE">
+      <data key="d3">9.0</data>
+      <data key="d4">Ces contrats sont r&#233;gis par les dispositions de l'Acte uniforme</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="ACTE UNIFORME" target="CLAUSE">
+      <data key="d3">8.0</data>
+      <data key="d4">Les clauses des contrats de transport de marchandises par route sont soumises aux dispositions de l'Acte uniforme</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="ACTE UNIFORME" target="JOURNAL OFFICIEL">
+      <data key="d3">1.0</data>
+      <data key="d4">L'Acte uniforme est publi&#233; dans le Journal officiel de l'OHADA et des &#201;tats Parties</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="CONVERSION MON&#201;TAIRE" target="TAUX DE CHANGE">
+      <data key="d3">9.0</data>
+      <data key="d4">Le taux de change est utilis&#233; pour la conversion mon&#233;taire des montants de l'Acte uniforme</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+    <edge source="NULLIT&#201;" target="CLAUSE">
+      <data key="d3">9.0</data>
+      <data key="d4">Une clause peut &#234;tre d&#233;clar&#233;e nulle si elle d&#233;roge aux dispositions de l'Acte uniforme</data>
+      <data key="d5">17494ca31f27e71f223d8ff914126361</data>
+    </edge>
+  </graph>
+</graphml>
