@@ -1,0 +1,135 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="CONVOLUTIONAL NEURAL NETWORKS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Convolutional Neural Networks (CNNs) are a specialized type of neural network designed primarily for processing structured grid data, such as images. They have become the cornerstone of computer vision applications due to their ability to automatically and adaptively learn spatial hierarchies of features."</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="LECUN ET AL.">
+      <data key="d0">PERSON</data>
+      <data key="d1">LeCun et al. developed LeNet for digit recognition in CNNs"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="LENET">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="RELU">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">ReLU is an activation function used in Convolutional Neural Networks"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="DROPOUT">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Dropout is a regularization technique used in Convolutional Neural Networks"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="MOBILENETS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">MobileNets are efficient architectures for Convolutional Neural Networks"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="EFFICIENTNETS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">EfficientNets are efficient architectures for Convolutional Neural Networks"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="NEURAL ARCHITECTURE SEARCH">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Neural Architecture Search is a method for designing optimized network structures"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="RECURRENT NEURAL NETWORKS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Recurrent Neural Networks are a type of neural network used for sequential data"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="TRANSFORMERS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Transformers are a type of neural network used for sequence modeling"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="GENOMICS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Genomics is a field that uses Convolutional Neural Networks for data analysis"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="CLIMATE SCIENCE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Climate science uses Convolutional Neural Networks for data analysis"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <node id="ART GENERATION">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Art generation uses Convolutional Neural Networks for creating art"</data>
+      <data key="d2">f2caae78925912c54b1f188557b5ab2c</data>
+    </node>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="LECUN ET AL.">
+      <data key="d3">1.0</data>
+      <data key="d4">LeCun et al. introduced Convolutional Neural Networks (CNNs)</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="LENET">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) include the LeNet architecture</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="RELU">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) often incorporate the ReLU activation function</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="DROPOUT">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) often incorporate the dropout regularization technique</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="MOBILENETS">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) include MobileNet architectures</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="EFFICIENTNETS">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) include EfficientNet architectures</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="NEURAL ARCHITECTURE SEARCH">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) can be designed using Neural Architecture Search</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="RECURRENT NEURAL NETWORKS">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) can be integrated with Recurrent Neural Networks</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="TRANSFORMERS">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) can be integrated with Transformers</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="GENOMICS">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) are used in genomics</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="CLIMATE SCIENCE">
+      <data key="d3">9.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) are used in climate science</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+    <edge source="CONVOLUTIONAL NEURAL NETWORKS" target="ART GENERATION">
+      <data key="d3">1.0</data>
+      <data key="d4">Convolutional Neural Networks (CNNs) are used in art generation</data>
+      <data key="d5">f2caae78925912c54b1f188557b5ab2c</data>
+    </edge>
+  </graph>
+</graphml>
