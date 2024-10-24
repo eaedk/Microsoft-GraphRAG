@@ -1,3 +1,6 @@
 .env
 .venv
 output/*/cache
+output/garbage
+*.env
+*.vscode
